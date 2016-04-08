@@ -1,0 +1,1934 @@
+
+Volume17, Article 1 January 2006 
+MSIS 2006: MODEL CURRICULUM AND GUIDELINES 
+FOR GRADUATE DEGREE PROGRAMS IN 
+INFORMATION SYSTEMS 
+
+John T. Gorgone, ACM Co-Chair and Editor 
+Paul Gray, AIS Co-Chair and Editor 
+Edward A. Stohr 
+Joseph S. Valacich 
+Rolf T. Wigand 
+
+jgorgone@bentley.edu 
+
+
+MODEL 
+CURRICULUM 
+
+Permission Granted to Reprint 
+Communications of AIS, Volume 17, Article 1 
+MSIS 2006.  Model Curriculum and Guidelines for  
+Graduate Degree Programs in Information Systems 
+by J.T. Gorgone, P. Gray, E. A. Stohr, J.S. Valacich, and R. T. Wigand 
+
+
+MSIS 2006: MODEL CURRICULUM AND GUIDELINES 
+FOR GRADUATE DEGREE PROGRAMS IN 
+INFORMATION SYSTEMS 
+
+John T. Gorgone, ACM Co-Chair and Editor 
+Paul Gray, AIS Co-Chair and Editor 
+Edward A. Stohr 
+Joseph S. Valacich 
+Rolf T. Wigand 
+jgorgone@bentley.edu 
+ABSTRACT 
+This article presents the MSIS 2006 Model Curriculum and Guidelines for Graduate Degree Programs in Information Systems.  As with MSIS 2000 and its predecessors, the objective is to create a model for schools designing or revising an MS curriculum in Information Systems. The curriculum was designed by a joint committee of the Association for Information Systems and the Association for Computing Machinery. 
+MSIS2006 is a major update of MSIS 2000. Features include increasing the number of required courses from 10 to 12 while revising prerequisites, introducing new courses and revising existing courses to modernize the curriculum, and alternatives for phased upgrading from MSIS2000 to MSIS 2006.   
+As with the previous curriculum, it is the product of detailed consultation with the IS community. The curriculum received the endorsement of 8 major IS professional groups.  
+Keywords: MS curriculum, MS course outlines, MS career tracks 
+
+THE PARTICIPANTS 
+JOINT MSIS 2006 CURRICULUM CO-CHAIRS AND EDITORS: 
+John T. Gorgone Bentley College Paul Gray Claremont Graduate University 
+
+JOINT ACM/AIS TASK FORCE MEMBERS 
+Edward A. Stohr Stevens Institute of Technology 
+     Joseph S. Valacich Washington State University 
+     Rolf T. Wigand University of Arkansas at Little Rock 
+
+ENDORSING ORGANIZATIONS 
+ACM SIGMIS 	Special Interest Group in MIS of ACM Chair, Janice Sipior, 2005 
+AITP 	Association of Information Technology Professionals President, Brian J. Reithel, 2005 
+DSI 	Decision Sciences Institute 
+President, Thomas E. Callarman, 2005 
+President Elect, Mark Davis, 2005 
+EDSIG 	Education Special Interest Group of AITP President, Paul Leidig, 2005 
+IACIS 	International Association for Computer Information Systems President, Larry Cornwell, 2005 
+INFORMS-ISS 	INFORMS Information Systems Society Chair, Ramayya Krishnan, 2006 
+SIGED:IAIM 	Educational Special Interest Group of AIS  President, Mary Brabson, 2005 
+SIM 	Society for Information Management Vice President, Academic Community Affairs,  J. Rockart, 2005  
+
+
+INTENDED USERS 
+The intended users for the Master of Science in Information Systems (MSIS) model curriculum report includes the following classes of users who have a stake in the achievement of quality IS degree programs: 
+. 
+academic executives to whom MSIS programs report 
+
+. 
+academic heads of units where MSIS programs are housed 
+
+.
+ MSIS faculty 
+. other faculty in the school or college where the MSIS program resides 
+
+
+. 
+information systems practitioners 
+
+.
+ MSIS students 
+
+
+The MISIS curriculum was developed based on graduate programs in the United States and Canada and is intended primarily to fit those programs.  Programs in other countries may choose to adapt the model to fit their needs. 
+
+
+FOREWORD 
+
+MSIS 2006: Model Curriculum and Guidelines for Graduate Degree Programs in Information Systems is the latest report from model curriculum work in the information systems field. The work of IS curricula task groups began in the early 1970s and continues for over 30 years since then.  The Association for Computing Machinery (ACM) is a major organizer for these task groups including the first efforts in the 1970s. In recent years, the Association for Information Systems (AIS) joined with ACM. Other organizations, including AITP (formerly DPMA) and IFIP (International Federation for Information Processing), also aided model curriculum development.   
+MSIS 2006 is the fourth collaborative effort1 between ACM and the Association for Information Systems (AIS).  Both organizations serve a worldwide membership.  ACM includes both professional and academic members in the broad field of computing. Through its Education Board, it supports a wide range of curriculum development including computer science, information systems, and software engineering. AIS, organized in 1994, is composed of faculty members in information systems. The partnership of ACM and AIS, therefore, combines the breadth of interest of ACM and the information systems interest of AIS. All of the members of the task group belong to both organizations. 
+Although both ACM and AIS are worldwide organizations, MSIS 2006 does not represent a universal model curriculum.  It does not seek to harmonize the curriculum to meet the requirements of different educational systems around the world.  The model curriculum for graduate degree programs in information systems is based on the typical degree structure in US and Canadian universities.  It is a model for a Master＊s Degree in Information Systems and not a concentration or option in an MBA program.  Placing this model curriculum within a specific context allows it to be applicable directly to program designers in the USA and Canada and avoids the difficulties of considering a large number of educational systems.  However, the Master＊s Degree program in Information Systems can be a useful reference for designers of information systems degree programs outside the USA and Canada.  The reasoning behind the degree structure and course content descriptions are useful inputs to curriculum designers in different countries with unique constraints.   
+Model curricula reports are separate and entirely different documents from accreditation standards. A model curriculum is produced by professional societies such as ACM and AIS. These reports suggest a program of study (the curriculum) for a degree and give samples of what could be included in the course on a suggested subject. The professional community agrees to the curriculum as generally defining or presenting the profession. Thus, a model curriculum is a society recommended, generic curriculum that can be used as a guideline from which individual institutions create their own curriculum. The curriculum is based on stakeholders objectives and needs. That is, it includes the interests and needs of students and the employers who hire them as well as the particular mission of their institution and the strengths of their faculty.    
+1 Previous collaborations were IS ＊97 and IS2002 at the undergraduate level and MSIS 2000 at the graduate levels. 
+The task force did not intend and does not expect that each institution will follow the model curriculum precisely. It is presented as a useful guide in designing information systems programs at the graduate level.  We do know that many schools began offering MSIS programs since MSIS 2000. Most of the faculties involved used that curriculum as the starting point for their design, and found it to be a very useful resource.  Data on the exact number of institutions is not readily available.  We estimate that approximately 50 MSIS programs [Gorgone & Kanabar, 1997] were offered prior to MSIS 2000 and that the number is now over 200 master＊s degree programs worldwide. 
+With accreditation of MSIS programs not yet a reality, the model curriculum serves as a useful document for the programs and students.  Prospective MS students in IS generally want to know if a program meets professional standards because standards increase the value of their degree in the marketplace. Schools find it advantageous to respond to such inquiries by stating that their program adheres in principle to the model curriculum approved by ACM and AIS. 
+The primary purpose of accreditation is to assure quality to students and the public. It is a signal that a program meets at least minimal standards for its faculty, curriculum, student services, libraries, and fiscal stability. Accreditation is a process based on self-review and peer assessment for public accountability and continued program quality improvement [Impagliazzo & Gorgone, 2002]. Accreditation criteria do not delve into course description2. Accreditation criteria are products of accreditation bodies, such as AACSB and ABET. Accreditation is a status granted to a program that meets the minimum stated criteria after peer review process by the accrediting body.  We expect specialized masters programs such as the MSIS will begin to be accredited within a few years. 
+University-level Information Systems (IS) curricula need frequent updating to remain effective. Model curricula developed by task groups from professional societies and universities in their curricula development and updating efforts by providing four inputs: 
+. 	
+The common body of knowledge that graduates are expected to know.  This helps counter local requirements bias and helps graduates to be prepared for positions in a large geographic area. 
+
+. 	
+A program structure with suggested courses and course sequences. 
+
+. 	
+Rationale for the program and the resources required for it. 
+
+. 	
+Rationale for investment in faculty development to keep faculty members up to date with rapidly changing technology and the rapidly changing management approaches. 
+
+
+The value of model curricula such as MSIS 2006 are also based on a strong, increasing demand for university-trained graduates who can meet the changing needs of the information economy. A degree program in information systems cannot teach every fact or every process that will be needed by the graduate; its objective is to provide the fundamentals that support productive employment and provide a basis for lifelong learning. 
+2 See www.abet.org for examples of accreditation criteria. 
+The members of the task force thank the many members of the IS community who provided input to and reviews of our work. We also thank the ACM Education Board and the AIS Council for their support. 
+Joint ACM and AIS Task Force for Information Systems Curricula  
+John T. Gorgone, Co-Chair Paul Gray, Co-Chair  Edward A. Stohr,  Joseph S. Valacich Rolf T. Wigand 
+ACKNOWLEDGMENTS 
+The MSIS Task Force thanks the following for helping make this report possible: 
+. 	
+Eric Roberts and Andrew McGettrick, co-chairs, and  Russell Shackelford and Peter Denning, past chairs, of the ACM Education Board for their support. 
+
+. 	
+The members of the ACM Education Board for their continued encouragement and approval of the report. 
+
+. 	
+Roy Johnson AIS Vice President for Education, and M. Lynne Markus, past Vice President for Education, of AIS for their support. 
+
+. 	
+All the officers and boards of the endorsing organizations: ACM-SIGMIS, AITP, DSI, EDSIG, IACIS, INFORMS-ISS, SIGED: IAIM, and SIM. 
+
+. 	
+The schools of the MSIS Task Force members for travel support. 
+
+. 	
+Dean Lorne Olfman, Claremont Graduate University for hosting the Task Force seminar in March 2005. 
+
+. 	
+Gordon Davis, Past President of AIS and an AIS Leo and ACM Fellow, who nurtured the Task Force, for sage advice and counsel. 
+
+. 	
+The many participants who attended the presentation sessions, read portions of the draft report, and provided feedback to the Task Force. 
+
+. 	
+The faculty members from the many colleges and universities, worldwide, who provided input about the MSIS program at their institutions. 
+
+
+CONTENTS (PAGE NUMBERS REFER TO THIS REPRINT, NOT OIGINAL) 
+THE PARTICIPANTS........................................................................................................ 122INTENDED USERS .......................................................................................................... 123FOREWORD..................................................................................................................... 124ACKNOWLEDGMENTS.................................................................................................... 126EXECUTIVE SUMMARY .................................................................................................. 128 TASK FORCE REPORT AND RECOMMENDATIONS .................................................... 130 Why an MS in Information Systems? .................................................................... 130 Role of the Model Curriculum....＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃..................130             What are the Changes in MSIS 2006 from MSIS 2000? .................................... 131 The Sliding Window Concept ................................................................................ 131 Structure of the Report.......................................................................................... 132 Goals of the MSIS Program .................................................................................. 133 Student Backgrounds............................................................................................ 133 Career Paths ......................................................................................................... 134 The Employer＊s View............................................................................................. 134 Principles of MSIS Degree .................................................................................... 135 Description of the Information Systems Program.................................................. 137 MSIS Curriculum ................................................................................................... 147 Comparison of MSIS 2006 with MSIS 2000 .......................................................... 148 Moving to MSIS 2006: A Two Stage Process ....................................................... 148 Variations .............................................................................................................. 151 Conclusions on MSIS 2006................................................................................... 152 References............................................................................................................ 152 APPENDIX 1 COURSE DESCRIPTIONS......................................................................... 153 Information Systems Foundations......................................................................... 153 IS2002.1 Fundamentals of Information Systems IS＊97.5 Programming, Data File and Object Structures             IS Technology Courses.........................................................................................156             MSIS2006.1 每 IT Infrastructure MSIS2006.2 每 Analysis, Modeling and Design MSIS2006.3 每 Enterprise Models MSIS2006.4 - Emerging Technologies and Issues            IS Management Courses ...................................................................................... 166 MSIS2006.5 每 Project and Change Management MSIS2006.6 每 Strategy and Policy MSIS2006.7 每 Integrated Capstone MSIS2006.8 每 Implications of Digitization MSIS2006.9 -  Human Computer Interaction            Level 1Courses＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃ 177 MSIS2000.1 每 Data Management MSIS2000.3 -  Data Communications and Networking APPENDIX 2 PREREQUISITE STRUCTURE, COURSE SCHEDULES, STAFFING＃ 181 APPENDIX 3 RESOURCE REQUIREMENTS.................................................................. 184 APPENDIX 4 REPRESENTATIVE CAREER TRACKS AND SUGGESTED COURSES ... 186 APPENDIX 5 AN ALTERNATE WAY OF SATISFYING BUSINESS PREREQUISITES.. 188 APPENDIX 6 SUMMARY OF CURRICULUM COURSE REQUIREMENTS .................... 190 APPENDIX 7 A MATRIX OF COURSES AND TOPICS ................................................... 191 APPENDIX 8 BACKGROUND AND PROCESS ＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃192 
+
+EXECUTIVE SUMMARY 
+
+MSIS 2006:  Model Curriculum and Guidelines for MS Degree Programs in Information Systems was sponsored by the Association for Computing Machinery (ACM) and the Association for Information Systems (AIS).  It is endorsed by the leading information systems organizations.  This document is a major update and revision to the Information Systems Master＊s curriculum completed in 2000 [Gorgone, Gray et al. 2000].  The model was developed over a period of three years.  It was presented at professional meetings for comment by academics and was reviewed by practitioners in the field. 
+MSIS 2006 is based on the educational system and degree structures common to the United States and Canada.  The report is also relevant to institutions outside these systems for the reasoning and design process for curriculum development in other environments. 
+A set of underlying principles and philosophy was used to guide the development. Essential career development skills including oral, written, and presentation skills; people and business skills; and ethics and professionalism are integrated throughout the curriculum and its individual courses. 
+The curriculum model is designed as a set of interrelated building blocks. 
+Foundations: At the foundation level, the curriculum is designed to accommodate students from a wide variety of backgrounds. In particular, the model specifies the business and information systems skills required as prerequisite to the rest of the curriculum. 
+Core: The next level, or core, is a set of Technical and Management courses. All graduates require this common core.  Some of the core courses are similar in name to those in the 2000 Curriculum, but the contents are a major revision reflecting the changes in the Information Systems field.  The core courses are:  
+Technical Courses  
+.
+ IT Infrastructure 
+
+. 
+Analysis, Modeling, and Design 
+
+.
+ Enterprise Models 
+
+. 
+Emerging Technologies and Issues 
+
+
+Managerial Courses 
+. 
+Project and Change Management 
+
+. 
+IS Policy and Strategy 
+
+. 
+Implications of Digitization OR Human-Computer Interaction  
+
+.
+ Integrated Capstone 
+
+
+Individual institutions may choose either (or both courses) the Implications of digitization and Human- computer interaction.   
+Integrated Capstone: A major revision in this curriculum is in the integration capstone component required after the core.  This component addresses the increasing need to integrate a broad range of technologies. It offers the students the opportunity to synthesize the ideas presented earlier and it helps students implement comprehensive systems across an organization. The revision broadens the view of integration from being primarily a technical issue to considering both technology and management integration.  
+Career Tracks: The program architecture is flexible to accommodate individual institutional requirements for an MS degree.  This flexibility occurs at both the entry level with the foundation courses that can be tailored to meet individual needs and at the highest level where institutions and students may select specific career tracks that are representative of current organizational needs. 
+The courses are described in Appendix 1. 
+Two major changes are made in the structure of the program.  First, the number of required courses in the core increases by two, one in technology and one in management. Second, the curriculum recognizes that while moving from MSIS 2000 to MSIS 2006 in one step is possible for some institutions, however, a phased, two-stage implementation is suggested. For simplicity, these changes are labeled Level 1 and Level 2. In Level 1, two courses are added (one in management and one in technology) and two courses are modified. These changes can be made one at a time, almost independent of one another. In Level 2, the emphasis is on upgrading the sophistication and cohesiveness of the entire set of IS technology offerings to be in line with technological advancements. Level 2 is a full implementation of MSIS 2006. 
+The model curriculum is useful for many individuals.  For university and college administrators, it defines the resources necessary for a successful program.  Faculties are provided with a well-defined model to use in updating their programs.  Students with varying backgrounds can use the model to obtain an overview of the discipline. Information systems professionals and managers have a valuable tool that helps them understand the qualifications and skills they can expect of new hires from programs that follow the model curriculum. 
+The model curriculum is designed to serve as a set of standards upon which individual institutions can base their curriculum.  It is compatible with MS programs ranging from 30 to 60 or more units offered in a variety of locations in the university, including business, information systems, computer science, and liberal arts. By adopting this curriculum, faculty, students, and employers can be assured that MS graduates are competent in a set of professional knowledge and skills, know about a particular field in detail from the career track, and are instilled with a strong set of values essential for success in the Information Systems field.  In short, it is a program that reflects current and future industry needs. 
+
+TASK FORCE REPORT AND RECOMMENDATIONS 
+
+This report presents a model curriculum for a master＊s program in information systems (MSIS). Although based on degree programs in the United States and Canada, the report can be useful for curriculum development worldwide. This program is the result of a multi-year effort of a joint Task Force of the Association for Information Systems (AIS) and the Association for Computing Machinery (ACM) 
+WHY AN MS IN INFORMATION SYSTEMS? 
+Starting with the first computer for business, the LEO, built in the UK starting in 1951 [Ferry 2003], the field of information systems grew at what can only be described as an amazing rate. Starting from a forecast of a commercial market for at most five computers by Thomas J. Watson, then head of IBM, computers became ubiquitous. More than 70 percent of the people in the United States use them.  A large industry, both inside and outside organizations, designs, manages, and operates these information systems. 
+Although the higher education system produces highly educated people in information and computer systems, as in all fields, talented people with advanced knowledge for managing information systems are a scarce resource.  It is the objective of the MS programs to fill this gap by providing the needed education.  
+It is evidenced that MS programs are achieving their objectives by the existence of more than two hundred MS programs in Information Systems in the United States and throughout the world. Their student bodies include people with previous degrees in IS, people with degrees in related fields and considerable experience, and people who seek to enter the field without previous knowledge about information systems. These various streams of students find remunerative jobs upon graduation from the MS programs. 
+
+THE ROLE OF THE MODEL CURRICULUM 
+The objective of a model curriculum is to provide a guideline for program designers for specifying a minimum common body of knowledge for all MSIS graduates. The first model curriculum was published by the ACM in 1972 [Ashenhurst, 1972]. The curriculum was revised in 1982 [Nunamaker et. al, 1982] and again in 2000 [Gorgone, Gray, et al., 2000]. The present curriculum updates the 2000 version to take into account the changes that occurred since then. The model curriculum provides a standard against which individual colleges and universities can judge their own program.  Students and employers look for programs that follow the model curriculum so that they can understand what a person with an MSIS degree knows. For students, the MSIS curriculum provides a foundation for a successful career as an IS professional. Individual programs may vary from the recommended model because each institution is different in scope, emphasis, faculty resources, and student skills, and serves different employer constituencies,  
+
+WHAT ARE THE CHANGES IN MSIS 2006 FROM MSIS 2000? 
+Based on their experiences with MSIS 2000 and the changes in the worlds of technology and business, members of the community articulated the need to strengthen the emphasis on the following important concepts (listed in alphabetic order): 
+. 	
+Business Processes 
+
+. 	
+Emerging Technologies 
+
+.	
+ Globalization 
+
+.	
+ Human-Computer Interactions 
+
+. 	
+Impacts of Digitization 
+
+
+Analyzing this feedback, the Task Force recommends that programs add two of three new courses3  to the model curriculum and that the other topics listed be integrated throughout the MS curriculum.   
+In brief, the changes in moving to MSIS 2006 from MSIS 2000 involve: 
+. 	
+Adding one IS Management course and one IS Technology course. 
+
+. 	
+Changing the content of the Integration course to an integrated capstone course. 
+
+. 	
+Revising and expanding the individual courses in IS Technology to account for the increasing sophistication of technology.  
+
+. 	
+Reducing prerequisites, including deleting the IT Hardware and Software course from the IS Prerequisites and offering a two-course, graduate level, more IS-focused version of the Business Prerequisites.  
+
+
+In addition, current, new topics are included throughout the curriculum. For example, sourcing and offshoring, regulatory changes, security, and continuity planning are woven into the course descriptions. Given the constraints on the number of available units, these important topics, were not selected for full courses of their own.   
+
+THE SLIDING WINDOW CONCEPT 
+It is recognized that institutions will vary in the specializations they offer in preparation for a career, with each institution offering its own unique alternative, determined by faculty resources and skills and by the needs of its constituencies. 
+Given knowledge about the input and outcomes, the report presents a set of principles that were followed in creating the curriculum. The standard MSIS 2006 model curriculum consists of 12 courses. Because of the varying institutional requirements for MS degrees among universities, the MSIS 2006 curriculum model accommodates degree programs ranging in length from 8 to 20 courses. The number of courses is dictated by institutional constraints, whereas the choice of courses (content) is dictated by the background of the students and the objectives of the program. For programs whose students are relatively new to information systems, the program design will focus 
+3 As the reader will see, these courses are Emerging Technologies and Issues (mandatory in the Technology group of courses) and a choice between The Implications of Digitization and Human Computer Interaction (HCI) in the Management group of courses. 
+on foundational concepts whereas programs whose students are sophisticated IS professionals will be more advanced in design.  We refer to this curriculum architecture as a sliding window strategy. The size of the window is determined by the number of courses in an institution＊s program.  The location of the window, along the continuum of courses 每 ranging from foundational to advanced 每 may slide toward either end depending on the backgrounds of the students and the objectives of the program. Programs implementing the entire model curriculum, from fundamentals to the most advanced courses, will offer a window that spans the full 20 courses. The recommended 12-course implementation of the MSIS 2006 model curriculum is a collection of both foundational and advanced topics, located towards the center of the sliding window. 
+Table 1 shows the five separate scenarios which contrast the differing backgrounds of students entering the MSIS program.  
+Table 1. Possible Backgrounds of Students Entering the MSIS Program 
+Scenario  Student Background  Description  
+1  IS 2002 Major  Student with an undergraduate major conforming to IS 2002 and little experience  
+2  Business Major  Student with a BA in business and one IS survey course  
+3  Computer Science Major  A computer science undergraduate with no IS courses and little experience  
+4  Other Undergraduate Major  Undergraduate in science, social science, or humanities  
+5  Professional   Professional returning to institution with extensive practical experience  
+
+
+STRUCTURE OF THE REPORT 
+This report begins with a description of the objectives of the MSIS program.  It then focuses on input〞the range of students who can be expected to undertake the degree〞and the output〞 students that meet employer expectations. The curriculum includes four components:   
+.
+ Foundations, . an IS management stream, and  
+
+. 
+an IS technology stream, . a career track.  
+
+
+The courses required, their rationale, and their interrelations are discussed in the text. Appendix 1 describes the individual courses in detail.  Other appendices describe the prerequisite structure, course sequence schedules, staffing requirements, resources required (faculty, computing, physical space, and library), details on the career tracks, background, process followed, existing MSIS programs, and a summary of curriculum course requirements. . 
+
+GOALS OF THE MSIS PROGRAM 
+
+Students graduating from the MSIS program should be prepared to provide leadership in the Information Systems field. 
+Graduates will have the following skills, knowledge, and values (Figure 1):  
+. 
+A core of IS management and technology knowledge  
+
+. 
+Integration of IS and business foundations 
+
+. 
+Broad business and real world perspective 
+
+. 
+Communication, interpersonal, and team skills 
+
+. 
+Analytical and critical thinking skills 
+
+. 
+Specific skills leading to a career 
+
+
+The institution needs to keep in mind the need for continually assessing how well it is meeting the objectives and expected outcomes of the MSIS program.  
+
+Figure 1. Skills, Knowledge, and Values of MSIS Graduates 
+
+STUDENT BACKGROUNDS 
+For the foreseeable future, it is anticipated that MS programs will continue to attract students with a wide range of backgrounds.  In traditional graduate programs, it is assumed that entering students have a common background obtained through an undergraduate degree in that field.  For students entering the MSIS program, this is often not the case. Although students entering directly from undergraduate programs may have a BS degree with a major in IS, often their degree is in computer science, business, or some other field.  The MSIS program may also attract experienced individuals including IS professionals and people seeking career changes. Often this experienced group will be part-time evening students or will access the courses through a remote learning environment. The architecture of the MSIS program accommodates this wide diversity of backgrounds and learning environments.  Specifically, the MSIS program is appropriate for: 
+. 	
+New graduates with degrees in a variety of fields from business students with an IS concentration, computer science, general business degrees, and bachelor degrees in a range of fields including the humanities, social science, engineering, and physical science. 
+
+. 	
+New graduates with a BS degree with a major in IS or IT. 
+
+. 	
+Experienced IS professionals seeking to upgrade skills and to understand management issues. 
+
+. 	
+Experienced management professionals seeking skills in managing technology. 
+
+. 	
+Professionals from many other fields seeking a change in careers. 
+
+. 	
+International students. 
+
+
+
+CAREER PATHS 
+The MSIS program is designed to support both traditional and emerging career opportunities.  The number of available career paths for IS professionals increased significantly in recent years. Career paths include (but are not limited to): 
+.
+ consulting 	. data administration 
+
+.
+ systems integration 	. networking, telecom, and infrastructure   
+
+. 
+managing sourcing and global projects . consumer products and services 
+
+.
+ project management 	. software development 
+
+
+The career opportunities in Information Systems require students to know both the technology and the business and environment in which they will work. Because the career paths for MS graduates are more varied, the preparation required is both broader and deeper than a traditional undergraduate IS program.  Table 2 shows typical job objectives of MSIS graduates. 
+
+THE EMPLOYER＊S VIEW 
+The model curriculum removes employer uncertainty by providing all MS degree holders with a core set of knowledge.  Furthermore, to make students more employable, students can take a related set of courses (reinforced with practical experience) in a particular field within information systems.  
+As information systems become more complex and technology expands its capabilities globally, the skills required for IS professionals continue to increase.  Students graduating with an MS degree should possess the skills that they will need to take on 
+Table 2. Typical Job Objectives of MSIS Graduates 
+Advancement in current job   Systems integrator  
+Promotion within IS management  Specialist (technical, web)   
+Management consultant  Systems analyst/designer  
+Internal consultant  IT Infrastructure Specialist  
+Chief Information Officer  Network manager/analyst  
+Chief Technical Officer  Business analyst  
+Sourcing manager  Database Administrator  
+Project manager  Liaison between IT and Business Functions  
+Entrepreneur  Ph.D. program leading to teaching/research  
+
+responsible positions and to serve as mentors to people with less sophisticated education and experience.  
+In a study sponsored by the Society for Information Management4 (the professional society of Chief Information Officers headquartered in Chicago, IL) it was found that understanding business domains, functional area industry knowledge, and client-facing skills will be more critical for in-house IT personnel in the years ahead whereas programming, operations, and help-desk skill requirements will decline in demand. Project planning, budgeting, and scheduling are important skills in the near term as are knowledge of ERP, integration, wireless, and security. MS students with work or internship experience are expected to have a competitive advantage in the job market.  
+
+PRINCIPLES OF THE MSIS DEGREE 
+The following underlying principles and philosophy were used to guide the development of the MSIS curriculum. 
+. 	
+Professional Degree. The MSIS is a professional degree that integrates the information culture and the organizational culture. We recognize the difficulties that people trained purely in one professional culture experience in communicating with each other. We believe that MS graduates should possess the knowledge and sophistication to bridge this chasm. 
+
+. 	
+Value Added. The degree adds value to students studying beyond the bachelor degree.  Students invest a year or more of their lives and organizations often sponsor the student financially.  Both are entitled to a return on their investment. 
+
+
+4 The study, reported in Information Week by Whiting (2005), was led by Professor Kate Kaiser of Marquette University. It is based on interviews by a team of senior faculty with 95 executives within 82 organizations. About two thirds of the interviewees worked in professional service, financial service, and manufacturing industries.  
+. 	
+Core.  The degree includes a standard set of core courses in IS Management and Technology5. As a result, employers are assured that MSIS graduates are competent professionals across the entire field. 
+
+. 	
+Flexibility. The curriculum＊s flexibility accommodates students with differing backgrounds, skills, and objectives. Full-time students with an IS background should complete the program in a year. Students lacking prerequisite knowledge should expect at most one additional year to complete the MS degree. The sliding window concept accommodates programs with different objectives, size (courses), and student entry competencies. 
+
+. 	
+Career Tracks.  An option offered in the curriculum focuses on current and emerging concepts through ※career tracks.§  These tracks allow students (within the competency of the faculty) to concentrate in a specific area for which there is demand and to achieve breadth across a topic area. 
+
+. 	
+Integration of Non-technical Skills.  Oral, written, and graphic presentation skills; promoting ideas and negotiating; people skills; business skills; team skills; customer orientation; real-world focus; and ethics and professionalism are integrated throughout the program. Each topic is important and, some might argue, each is worth a course of its own. However, given the limited time available for MS work, we believe that the appropriate way for institutions to present these topics is by integrating them tightly into the courses and include many of them within the newly required Implications of Digitization course. 
+
+. 	
+Unit Requirements. The program architecture is flexible and compatible with institutional unit requirements for an MS degree.  These requirements may range from as low as 24 to as high as 60 units, depending on the individual institution, program objectives, and student entry and exit characteristics. Institutions with long programs are able to extend their offerings beyond the 36-unit minimum by requiring more IS and Business Foundations prerequisites, or go into greater depth in the IS core and career tracks, or providing additional electives. 
+
+. 	
+Practicum.  A practicum is recommended as an integrating mechanism to provide real-world experience for the student.  A practicum is a term-long project solving a real problem for a real client against a time deadline.  For full-time students, it is recommended that they work in teams and that industry supports the project by providing stipends to the students for their work because the financial incentive has been shown to improve the relevance of the project topic and the quality of the student output. For part-time, working students, a project for their employer is usually appropriate as a practicum. At some universities, the practicum also fulfills graduation requirements in that the practicum provides a ※culminating experience§ in lieu of a master＊s thesis. The Task Force recognizes the difficulty of obtaining 
+
+
+5 The terms IS Management and Technology and IS Core are used interchangeably in the text that follows. 
+practicum sites and advising practicum students. Thus some institutions may choose to require a project course in lieu of the practicum. The practicum could be part of a career track, in which case, the number of courses required in the career track would be reduced. 
+. 	Capstone Integration: Master＊s courses are typically treated as independent entities.  As a result, students are not able to see or understand how the pieces integrate into a whole. Some institutions created capstone courses, usually built around policy and strategy. However, such a course focuses only on the integration of information systems with the business enterprise and on the role of the CIO. The purpose of the capstone is to integrate these components and lead students into thinking about the policies and strategies that information systems make possible. Integration, policy, and strategy can each be examined through three different lenses:  
+. 	
+the enterprise, 
+
+. 	
+the IS function, and 
+
+
+. the technology.  
+      The capstone deals with each of these views.  
+
+These general principles lead to the idea that programs should ensure that students have solid foundations in information systems and business either before they enter or through a specific set of courses. Furthermore, programs should provide students with a common body of knowledge (i.e., a core) yet be sufficiently flexible to meet both institutional and student needs and objectives. From an operational point of view, flexibility implies that students may gain advanced standing credit and/or substitute other courses for material they already know, thus enabling them to take electives both inside and outside IS.  Students should also have the opportunity to obtain practical experience through a practicum in industry. 
+
+DESCRIPTION OF THE INFORMATION SYSTEMS PROGRAM 
+The MS program is designed around the set of curriculum elements (building blocks) shown in Figure 2. The courses in the IS Foundations and Business Foundations blocks are prerequisites for the program. Students with inadequate backgrounds in these areas are required to take additional courses and will, therefore, require additional units to complete their degrees. 
+The IS Core (which is also referred to as IS Management and Technology) defines the fundamental knowledge about IS required of MSIS students. This knowledge is both technical and managerial in flavor. The core represents a standard that defines the MSIS program and differentiates it from both computer science programs and IS concentrations within MBA programs. 
+The rapid expansion of the field in recent years leads to a program that now includes more topics that should be covered within the constraint of the time available for the MSIS degree.  As a result, some courses are expanded in what they cover, some topics removed, and some topics show up from different perspectives in several courses. 
+
+Figure 2. Curriculum Elements 
+The Career Tracks block consists of elective courses organized around careers such as global IT management, management consulting, or IT infrastructure. Numerous career tracks are possible (Table 5). It is anticipated that institutions will offer tracks that are consistent with the number and competence of their faculty, and the needs of their students and constituencies. 
+Information Systems and Business Foundations Courses 
+A minimum foundation of essential prerequisite knowledge is needed to prepare students for the remainder of the curriculum.  Many students will enter the Master＊s program with some or all of this knowledge. This material is typically found in undergraduate IS degree programs.  An institution may, of course, require more than this minimum in each of the foundation areas. In addition, an institution may elect to allow a student to substitute professional experience for certain foundation courses. 
+Foundation courses may be offered at the graduate level. Similar to the MBA common body of knowledge, such graduate foundation courses cover more material at a more conceptual level than comparable undergraduate courses. 
+Information Systems Foundations 
+Students entering the MSIS program need the content of the following courses (or their equivalent) to be able to undertake the MSIS core described below. The required IS foundations include the content found in ※IS 2002 Model Curriculum Guidelines§ [Gorgone et al. 2002]: 
+. Fundamentals of IS (IS2002.1) 
+. Programming, Data, File, and Object Structures (IS2002.5)  This requirement normally consists of six units.  
+The IS foundations are required to prepare students for the IS core and reflect a minimum level of prerequisite IS knowledge.  Note that the IS foundations include at least one programming course. The amount of programming required depends in part on the nature of the MS program being offered at a particular institution.  For example, a more technical MS program might require two advanced programming courses, whereas for an institution focusing on managerial and organizational issues, the ability to program in a simple language might be sufficient.  Also, each institution determines its required level of competence on IS foundation prerequisites.  If a student took a course on an IS foundation topic as an undergraduate with an acceptable grade from an accredited institution, some institutions will allow transfer whereas others may require competence testing. This is an issue for individual institutions, rather than a policy matter to be specified here. 
+Business Foundations 
+ALTERNATIVE 1: 
+The business foundations can be provided by a minimum of three courses on the basics of business: one on internal organizational considerations, one on external organizational considerations, and a third course in one area of business. For example, a student may take: 
+. 
+Financial Accounting 
+
+. 
+Customer-focused Marketing 
+
+. 
+Organizational Behavior 
+
+
+This requirement normally consists of nine units. 
+ALTERNATIVE 2: 
+Alternatively, a two-course graduate sequence6 on integrated business functions and processes can be used to provide this business foundation. For example, students could participate in a two semester sequence, working in a simulated enterprise, encountering a broad range of business functions and decision scenarios, typically encountered when managing an organization though the use of ERP, CRM, or SCM systems within a global operating environment.  
+Programs may implement these requirements using other methods so long as students gain basic business knowledge.  Specifically, a graduate with an MS in IS needs to know a number of business-related topics if he/she is to function well in an IS job, particularly if that job involves managing in a private or a public global organization.  For example, the increasing globalization of supply chain networks requires a broad set of foundational knowledge so that students can understand how information systems can best enable organizational objectives. Students can sometimes satisfy the business foundation courses by taking equivalent courses in departments other than business.  For example, Industrial Engineering sometimes teaches Accounting and Psychology or Sociology teaches organizational behavior.  Furthermore, foundation courses can be taken at a senior undergraduate level.  
+6 Note that this two semester sequence is a new but highly recommended alternative.  Institution may need of the order of a year to develop such a highly integrated sequence. It is recommended that IS faculty work closely with their colleagues teaching business in developing the courses.  
+Three business courses or the two-course graduate sequence on integrated business functions and processes provide a minimal business foundation for MSIS graduates. The MSIS 2006 program is conceived as being a two cultures program, including both the IS and business cultures.  Given that IS graduates will work in firms and will interact with business-educated people, they will need to be able to communicate with many people whose background is business. Since many of these people are not likely to know the IS field, it becomes the responsibility of IS people to become culturally bilingual in computing and business. The ability to understand financial accounting, particularly costs, and the ability to understand how companies are organized and how people behave in organizations are required of all IS people.  The business foundations courses can be tailored by the student and the faculty advisor to what is available in a particular institution and is compatible with the career track chosen by the student. 
+Institutions that wish to increase business content through formal graduate business course work can do so. Of course, such a policy will result in a longer program.  It is also feasible for an institution to create a business track for students who want a pure managerial orientation. However, in that case, students may be better off taking an MBA with a concentration in IS. The present curriculum is not oriented toward the IS concentration within the MBA. 
+
+Information Systems Core 
+The IS core consists of two parts dealing with: 
+. 	
+IS Technology  (4 courses) and 
+
+. 	
+IS Management (4 courses) 
+
+
+IS Technology 
+. 	
+IT Infrastructure (includes networking), 
+
+. 	
+Analysis, Modeling, and Design (includes Human-Computer Interaction7 and Data) 
+
+.	
+ Enterprise Models 
+
+. 	
+Emerging Technologies and Issues 
+
+
+IS Management 
+. 	
+Project and Change Management 
+
+. 	
+Strategy and Policy 
+
+.	
+ Integrated Capstone 
+
+. 	
+Implications of Digitization or Human-Computer Interaction3 
+
+
+This requirement normally consists of 24 units.  
+7 If HCI is selected as a standalone course, then it is not included as a major focus within Analysis, Modeling, and Design. 
+NOTE: The Task Force recognizes that the transition in the technology and management courses from MSIS 2000 to MSIS 2006 can require major faculty development and curriculum revisions.  Therefore, after presenting the complete curriculum model, a two-level approach is suggested that should ease the transition. 
+IS Technology Courses  
+Although management practices changed substantially in recent years, changes in technology were even greater. Given these changes, the curriculum recognizes that today＊s global firms do less of their own detailed technical work in areas such as programming, data base, data communications, and networking than in the past but more in such areas as designing the IT infrastructure, including the use of the Internet and Web services, and creating enterprise models. Furthermore, IT configurations incorporate emerging technologies, particularly ※big ticket§ items, such as ERP and data warehousing, at an ever-increasing pace. 
+The topics in the first two courses on IS Technology were included as far back as the ACM＊82 curriculum and still remain part of the foundations of the field. However, in the intervening years, the contents of these courses altered drastically as new technologies and new software became available. Thus, for example, such topics as data warehousing and data mining, object-oriented systems, and mobile computing were not even known. The intent is to offer courses in these areas suitable for the current millennium. 
+Table 3 shows the suggested topics for each of the four technology courses.  
+IS Management Courses 
+At the MS level, students are preparing to assume managerial roles in IS. They therefore need to be knowledgeable in the managerial aspects of information systems.  The next two courses (Project and Change Management and IS Policy and Strategy) are designed to accomplish that goal. They are carried over from the previous MSIS 2000 curriculum. The other two IS management courses are: 
+1. 	
+The first is an option: either a course on the Implications of Digitization or a full course in Human-Computer Interaction. Both are new since they were not included in MSIS 2000. 
+
+2. 	
+The second is an integrated capstone that includes but is broader than the 
+
+
+systems integration course that it replaces.  The following paragraphs describe these courses.  
+Project and Change Management. The Project and Change Management course looks at how systems and technologies are implemented.  It includes consideration of project planning, scheduling, and budgeting as well as consideration of the change management required to implement projects. 
+Project management is an important topic for the IS core because it is essential for success in all IS endeavors and is critically lacking in many IS organizations.  Similarly, most IS projects involve transforming an organization from its existing ways of doing things. Such changes are often radical and traumatic to the people involved. Although change management may or may not be included in the business foundations  
+Table 3. Contents of the Technology Courses  
+IT  ANALYSIS, MODELING  ENTERPRISE  EMERGING  
+INFRASTRUCTURE  AND DESIGN  MODELS  TECHNOLOGIES AND ISSUES  
+IT Architecture  Systems development  Information Content  Data mining  
+Enterprise Information  methodologies  Data Distribution  Sourcing  
+Infrastructure  Requirements  Web Services and  
+Servers & Web Services  determination Team organization and  Business Process Management  Business Processes Security   
+Layered Network  communication  Managing SAN  Business  
+Architecture  Feasibility and risk  Large Systems (ERP,  Intelligence  
+Convergence &  analysis  CRM, ...)  Knowledge  
+Internet Protocols Multinational Enterprise Global WAN Services  Design reviews Systems development life cycle  Data Warehouses/Data Marts Data mining  Management Mobile and Ubiquitous Computing   
+Enterprise Network Design   Conceptual and logical data modeling  E-business  
+Wireless Technologies  Database  
+Network Security  implementation  
+Network Management  Data organization  
+Server architectures  Human computer  
+Storage management  interaction*  
+and networks  Software and system  
+Content management  metrics  
+networks  Software package evaluation  
+
+*Add more in-depth consideration of HCI if Implication of Digitization is chosen rather than HCI as an IS Management course requirement for the MSIS. 
+organizational behavior course, students should understand and be able to implement the changes that an IS project creates.  The goal of this core course is to reinforce the ideas of the Business Prerequisite organizational behavior course and make the relation between the technical and organizational aspects of projects more concrete for students, particularly those who come from technical backgrounds. 
+Strategy and Policy. Information technology plays an increasing role in the success of modern organizations. This course, which typically is case-based, looks at the IS project portfolio from the view of the business executive. It shows students how overall business policy and strategy considerations affect every aspect of IS and, conversely, who transforms information technology, the organization and, indeed, the very nature of business. 
+Although most MSIS students will not be called upon to make strategy and policy decisions early in their careers, the objective of this course is to make sure they understand policy and strategy issues and their implications in their day-to-day professional life. 
+Integrated Capstone. In the IS core, students learn about the details of the many components of information systems.  The role of the capstone course is to integrate these components and lead students into thinking about how these components synthesize. This course uses three different lenses: (1) the enterprise, (2) the IS function, and (3) the technology to illustrate how integration is achieved. 
+System integration is a pervasive aspect of IS policy, strategy and practice.    
+From a pedagogical point of view, recognizing that students spend most of their time on individual pieces of information systems, we recommend that the capstone course starts with integration.  Here the students learn the mechanics and principles of integration 每 at the enterprise, the IS function, and the IS technology levels.   
+The Enterprise.  This section of the course is oriented toward what to build, not how to build it. It focuses on organizational and managerial issues at the level of the enterprise as a whole.  Its objectives are to: 
+. 	
+provide an integrated view of the firm and its relations with suppliers and customers 
+
+. 	
+demonstrate an integrated set of business processes and functional applications that meet business needs 
+
+. 	
+introduce the concepts of information economics at the enterprise level 
+
+. 	
+understand how IS needs to be aligned with the strategies and policies of the enterprise. 
+
+
+The IS Function.  This section focuses on managing IS functions as they relate to the enterprise＊s policy and strategies on a day-to-day basis. Its objectives are to: 
+. 	
+design effective/efficient IS organizational processes 
+
+. 	
+assess the impact of emerging technologies 
+
+. 	
+define human resource needs and management methods 
+
+. 	
+IS governance alternatives 
+
+. 	
+apply methods to measure and demonstrate the value of IS 
+
+. 	
+define the role of the CIO. 
+
+
+The Technologies.  This section is concerned with how to develop an integrated enterprise architecture consonant with organizational policies and strategies, including: 
+. 	
+evaluate and select from architectural and platform choices, priorities, and policies 
+
+. 	
+assessment of the impact of emerging technologies 
+
+. 	
+evaluate the role of standards 
+
+. 	
+evaluate effect of vendor strategies. 
+
+
+Implications of Digitization.  IS is no longer merely an internal operation in companies. It is impacted by what goes on in the firm as a whole and in society in general, ranging 
+Communications of AIS, Volume 17, Article 1 MSIS 2006. Model Curriculum and Guidelines for Graduate Degree Programs in Information Systems 
+from security to ethics, to telecommuting to near-shoring and offshoring. Therefore, a course titled Implications of Digitization is added. 
+Human Computer Interaction. Institutions can choose to offer a full course in Human-Computer Interaction (HCI) rather than (or in addition to) the Implication of Digitization. If such a full course is offered, then it is possible to re-allocate the time for HCI in the Analysis, Modeling, and Design course (see the IS Technology portion of the core) to expand the other topics offered in that course.  
+Table 4 shows the suggested contents of the management courses. 
+Table 4. Content of the IS Management Courses 
+PROJECT AND CHANGE  POLICY AND STRATEGY   INTEGRATED CAPSTONE**  
+MANAGEMENT  The enterprise as a system of  
+Project life cycle  Relationship between IS and  integrated business processes  
+Project stakeholders  the business  Relationships with suppliers  
+Management skills  IS and competitive position  and customers  
+Project planning  Aligning IT goals and strategy  Strategic Alignment of IT with the business  
+Software cost estimation Work module design, assignment and version  Creating IT values, vision, and mission  Managing the IS function: IT organization and governance, the value of IT,  
+control Role of repository, project  IT strategic planning, infrastructure planning and  the role of the CIO, sourcing, compliance   
+library and version control  budgeting  Developing an integrated  
+Contingency planning  IS implementation  enterprise architecture: Platform choices, Impact of  
+Reporting and controls  standards and vendor  
+Testing and testing plans:  Inter-organizational systems   strategies  
+alpha and Beta  Outsourcing versus insourcing Globalization Risk management Virtual organization   
+
+IMPLICATIONS OF DIGITIZATION Ethics Privacy Govt. regulations  (e.g., Sarbanes-Oxley, HIPAA) Globalization and Sourcing  Intellectual Property Virtual Work and Telecommuting Implications of AI Security measures and planning E-business Digital Divide IT Workforce  HCI* The Participants and Their Roles  (end user, IS professional, computer, information) Human-based Issues (perception, cognition, memory constraints, problem solving, affect, behavior)  Evaluation Issues (evaluation methods, usability evaluation, user experience evaluation) Interactive Technologies (visual displays, information presentation, control devices input/output media)  HCI Design (design principles and guidelines, design process, practical applications)  Impacts of HCI (humans, work, organization, society, culture, international)  
+
+*EITHER Implications of Digitization OR HCI should be included in the IS Management Courses 
+* If the HCI course is offered, HCI topics are not fundamental to the Analysis, Modeling, and Design course ** The intent for the Integrated Capstone course is that at least six weeks be spent on systems integration since many MS degree candidates will be working on integration projects. Note that the same topic (e.g., sourcing, globalization, business processes, e-business) can be covered in several courses but from different viewpoints. 
+Final Thoughts on the IS Core 
+An objective of the curriculum guidelines is to provide a curriculum that can range from 30 to 60 units (10 to 20 courses) to accommodate the different requirements for MS degrees among universities. It is recommended that core courses should not be waived by presenting undergraduate equivalents. However, in the case of short (10 course) MS programs for students entering with thorough technical preparation (IS 2002 or an undergraduate Computer Science degree), the value-added considerations change. Thus, for example, for a CS student with thorough grounding in database and tele-communications, it is more important that the student learn the fundamentals of IS and of business rather than repeating material that may have been covered in an undergraduate CS degree. 
+
+Career Tracks 
+The career paths for IS professionals are more varied and dynamic than in the past. To take advantage of the available career opportunities, the advanced student must understand not only technology but also the business and environment in which it is deployed. The recommended curriculum is broader in scope and sufficiently flexible to allow institutions to provide a more focused, professional education meeting student career objectives and organizational needs. 
+A career track consists of four or more related electives that prepare a student for a specialization. It is anticipated that most institutions will offer multiple tracks. The career track or tracks chosen by a particular institution depends on the skills and interest of the faculty and student as well as industry needs.  Where appropriate, especially for students with limited experience, a practicum  can be used as a course within the career track. 
+As shown in Table 5, the curriculum identifies a broad range of career tracks, ranging from the very conventional (e.g., Systems Analysis and Design) to the leading edge (e.g., Knowledge Management, Sourcing) to functions (e.g., Consulting) and more. The tracks, listed in alphabetical order in Table 5, are indicative of the possibilities but are by no means an exhaustive list. Further details on these tracks are presented in Appendix 
+4. 
+Table 5. Representative Career Tracks 
+Academia   Electronic Commerce II  Mobile Computing (Technical)  
+Computer Forensics  Enterprise Resource Planning  New Ways of Working  
+Consulting  Global IT Management,   Process Management (BPM)  
+Data Mgmt.& Warehousing  Human Factors  Project Management  
+Data Warehousing & Data mining  Knowledge Management  Security  
+Database and Multi-Tiered Systems  Managing the IS Function - I  Systems Analysis/Design  
+Decision Making  Managing the IS Function - II   Technology Management  
+Electronic Commerce I  Managing Sourcing  Telecommunications - I   
+Mobile Computing (Managerial)  Telecommunications - II  
+
+Appendix 4 shows typical sets of courses that may be associated with these representative career tracks. In each case, four courses are shown.  Many institutions will use three of these courses and make the fourth course a practicum. 
+Experimentation with tracks is recommended. The only certainty is that some tracks will become obsolete over time while new ones will emerge as the IS field changes. The courses listed in Appendix 4 are an indication of the range of topics that tracks might cover. It is anticipated that institutions will choose only a small number of tracks for their own curriculum, where the criteria for selection include: 
+. 
+local industry needs and  
+
+. 
+the capabilities available within the institution. 
+
+
+In addition, tracks can (and should) be multidisciplinary, involving courses in two or more departments, depending on the nature of the track. For example, a student following an Electronic Commerce track might take e-commerce courses in IS together with marketing, economics, and management. Some courses may be in a different department or institution than IS.  For example, the Teaching Skills course in the Academic track may be taken in an institution or department of education or the Consulting in Business course in the Consulting track may be offered in a management department. 
+
+
+THE MSIS CURRICULUM 
+The MSIS 2006 curriculum is designed to: 
+. 	
+achieve a high standard of quality across all institutions that adopt the curriculum, 
+
+. 	
+provide commonality and uniformity of content in the core competencies achieved by students, 
+
+. 	
+accommodate students entering the MSIS with very different backgrounds, and 
+
+. 	
+encompass both one-year and two-year MSIS degree programs. 
+
+
+To achieve these goals, programs can range in size from a minimum of 30 units to a maximum of 60 units based on the ※sliding window§ concept described previously.  
+The new curriculum recognizes that the existing curriculum, based as it is on 30 units (10 courses)8 of graduate work is limiting as the scope of the IS field grows broader. The input from the IS community was concerned with adding topics to MSIS 2000 which were deemed to be underserved.  Such changes can only be made if: 
+1. 	
+The total number of hours of graduate work is increased, or 
+
+2. 	
+Deletions are made to compensate for additions. 
+
+
+Because the Task Force believes that additions are necessary, it is recommended that the basic program be increases to 36 units (12 courses).  However, because some programs are constrained to 30 or even 24 units (10 or 8 courses) by institutional mandates on MS programs, we also indicate the subset of the program that is recommended for these shorter situations. 
+
+TRADEOFFS 
+Although the Task Force is aware of the current cost of the MS degree to students, the Task Force prefers that institutions increase the requirements from 10 to 12 courses. We do, however, understand that many institutions are concerned that increasing the length of the curriculum could reduce demand for the MS and, in some cases, limit the degree＊s ability to sustain itself.  Therefore, two versions of a 10-course MS program is presented; one reducing the specialization track and the other reducing the depth to which material is covered in courses. Details are discussed below in the section on Variations. 
+8 We assume a course to be 14-weeks long per semester, with three units of credit assigned. Variations such as quarters rather than semesters or four units of credit per semester are not discussed.   
+Comparison of MSIS 2006 with MSIS 2000 
+To understand the changes for the MSIS 2006 curriculum, we begin with MSIS 2000 on which it is based. Table 6 shows the MSIS 2000 curriculum. 
+Table 6. Existing MSIS 2000 Curriculum 
+(30 Units plus up to 18 Units of Prerequisites) 
+
+IS PREREQUISITES . Fundamentals of IS . Hardware and Software . Programming, Data and Object Structures  BUSINESS PREREQUISITES . Financial Accounting . Marketing . Organizational Behavior  IS TECHNOLOGY (9 units) . Data Management . Analysis, Modeling, and Design . Data Communications and Networking _______________________ IS MANAGEMENT (9 units) . Project and Change Management . Strategy and Policy . Integration  CAREER TRACK (12 units) 4 courses in depth on a particular subject including, where possible, a practicum course experience in industry.   
+
+The changes in moving from MSIS 2000 to MSIS 2006 involve: 
+. 	
+Adding one IS Management course and one IS Technology course. 
+
+. 	
+Changing the content of the Integration course to an integrated capstone course. 
+
+. 	
+Revising and expanding the individual courses in IS Technology to account for the increasing sophistication of technology.  
+
+. 	
+Reducing prerequisites, including deleting the IT Hardware and Software course from the IS Prerequisites and offering a two-course, graduate level, more IS-focused version of the Business Prerequisites.  
+
+
+The resulting MSIS 2006 curriculum is shown in Table 7. 
+
+Moving to MSIS 2006:  A Two-Stage Process 
+In this section we describe the procedure for moving from MSIS 2000 to MSIS 2006. The section is written at the broad, course level of detail. The specifics of the content of the new courses were described in Tables 3 and 4. In addition, we describe variations required for institutions whose MS programs are limited to 30 or 24 hours by their institutions. 
+Moving from MSIS 2000 to MSIS 2006 in one step may be possible for some schools. For most, however, a phased, two-level implementation is recommended. For simplicity, these changes are labeled Level 1 and Level 2.  
+The two levels differ in what is emphasized.  In Level 1, two courses are added (one in management and one in technology) and two courses are modified. These changes can be made one at a time, almost independent of one another. In Level 2, the emphasis is on upgrading the sophistication and cohesiveness of the entire set of IS technology offerings to be in line with technological advancements. Level 2 corresponds to a full implementation of MSIS 2006. 
+Table 7. MSIS 2006 Model Curriculum. 
+IS PREREQUISITES  BUSINESS PREREQUISITIES  IS TECHNOLOGY  TRACKS  
+. IS Fundamentals   . IT Infrastructure  4 courses in depth on a  
+. Programming,  . Financial  . Analysis, Modeling, and  particular subject  
+Data, Files, and  Accounting  Design (including HCI*  including, where  
+Object Structures  . Customer-oriented Marketing . Organizational Behavior Or: Two course graduate sequence on integrated business functions and processes***  and Data Management) . Enterprise Models . Emerging Technologies and Issues _________________ IS MANAGEMENT . Project and Change Management . Strategy and Policy . Integrated Capstone** . Implications of Digitization or HCI*  possible, a practicum course experience in industry.  
+
+Key: Bold indicates new courses; Italics indicates updated course 
+* If HCI is selected as a standalone course, then it is not included as a major focus within Analysis, Modeling, and Design **   Replaces Integration course in MSIS 2000 *** A new alternative to Business Prerequisites (see Appendix 5) 
+
+Level 1 Changes 每 Changing The Course Structure 
+This first level of change is the simplest one.  It is achieved by: 
+. 	
+Deleting one prerequisite (IT Hardware and Software) thereby reducing prerequisites to 15 units. 
+
+. 	
+Adding one course to the IS Management component and one course to the IS Technology component. These additions raise the number of required units to 36. 
+
+
+. Modifying one or two existing courses. The program is shown in Table 8. 
+In brief, the changes involve the following: 
+1. 	
+In Business Prerequisites, an alternative two-course graduate level option is proposed. This course, described in Appendix 5, reduces prerequisite requirements for students with insufficient business background upon entrance.  
+
+2. 	
+In IS Technology, a new course entitled Emerging Technologies and Issues, is designed to bring students up to the forefronts of IS in practice. Its implementation can follow the IS Management changes for schools principally oriented toward IS Management. 
+
+3. 	
+In IS Management, the Systems Integration course in MSIS 2000 is renamed ※Integrated Capstone§ and its content is broadened so that it looks not only at systems integration but also at topics that deal with day-to-day operations such as the ongoing management of the IS function, alignment, and business processes.  The strategy and policy course is not modified. 
+
+
+Table 8. Level 1 Changes 
+(36 Units Plus up to 15 Units of Prerequisites) 
+
+IS PREREQUISITIES . IS Fundamentals . Programming, Data, Files, and Object Structures  BUSINESS PREREQUISITIES . Financial Accounting . Customer-oriented Marketing . Organizational Behavior Or: Two course graduate sequence on integrated business functions and processes  IS TECHNOLOGY . Data Management . Analysis Modeling and Design (including HCI and Data) . Data Communications and Networking . Emerging Technologies and Issues ______________________ IS MANAGEMENT . Project and Change Management . Strategy and Policy . Integrated Capstone . Implications of . Digitization or HCI  TRACKS 4 courses in depth on a particular subject including, where possible, a practicum course experience in industry.  
+
+Note: Bold denotes new courses. Italics denote updated courses from MSIS 2000 to achieve Level 1. 
+4. 	In IS Management, a new course is added. Institutions can choose from either a course on the implications of digitization (e.g., security, ethics, regulation) or a course on Human-Computer Interaction (HCI)).  If the full HCI course option is adopted, HCI topics are not emphasized as much in the revision of the Analysis, Modeling and Design course.   
+Note that sequencing is possible in the order in which changes are made within Level 1. The choice of order depends on the school＊s emphasis.  Schools with a heavy managerial emphasis and strength could make the changes in the IS Management group first, whereas schools with IS Technology strength could begin with those courses. 
+
+Level 2 Changes〞More Sophisticated Technology Offerings  
+Level 2 incorporates Level 1 and extends the changes in the program to add sophistication and depth to the IS Technology courses. The Level 2 MSIS 2006 IS Technology courses are compared to those in Level 1 in Table 9.  
+Although management practices changed substantially in recent years, changes in technology were even greater. Given these changes, the curriculum recognizes that today＊s global firms do less of their own detailed technical work in areas such as programming, data base, data communications, and networking than in the past but more in such areas as designing the IT infrastructure, including the use of the Internet and Web services, and creating enterprise models. Furthermore, IT configurations incorporate emerging technologies, particularly ※big ticket§ items such as ERP and data  
+Table 9. Comparison of IS Technology in Level 1 and Level 2 
+LEVEL 1  LEVEL 2  
+MSIS 2000.1Data Management  MSIS 2006.3 Enterprise Models  
+Analysis Modeling and Design (including HCI)  MSIS 2006.2 Analysis Modeling and Design (including HCI and Data)  
+MSIS 2000.3 Data Communications and Networking  MSIS 2006.1 IT Infrastructure  
+MSIS 2006.4 Emerging Technologies and Issues  MSIS 2006.4Emerging Technologies and Issues  
+
+Note: The Emerging Technologies and Issues Course is the same in Level 1 and Level 2 
+warehousing at an ever-increasing pace.  For these reasons the following changes are recommended in MSIS 2006: 
+1. 	
+Creating a course focusing on enterprise modeling to replace existing data base courses. Enterprise modeling centers on the technical aspects of the content delivered to users. 
+
+2. 	
+Expanding the Analysis, Modeling, and Design course so it includes consideration of the way data is used in applications, which is fundamental to analysis and modeling. If a separate HCI course is not offered in the IS Management sequence, the Task Force recommends that the Analysis, Modeling, and Design course should pay special attention to how humans interact with computers. 
+
+3. 	
+Creating a course focusing on the firm＊s IT infrastructure requirements and implementation. Note that such a course includes the major concepts of data communications and networking which are parts of the infrastructure.  
+
+
+The Level II course descriptions are presented in Appendix 1.   
+
+
+VARIATIONS 
+Before discussing the changes in the courses, we briefly present variations on the program in Table 7 that can be used by colleges and universities that require only 30 or 24 units for an MS degree. 
+For 30-Unit Programs 
+The following five options are possible for 30-unit programs: 
+. 	
+Option 1: Choose three of the five IS Management Courses + first three IS Technology courses + the full Career Track.   
+
+. 	
+Option 2: Combine IS Management topics in column 3 into three courses, selecting topics as appropriate + first three IS Technology courses + the full Career Track. 
+
+. 	
+Option 3: Use all five IS Management Courses + all four IS Technology courses, delete the Career Track and add one elective. 
+
+. 	
+Option 4: Delete the career track option and add two electives.  
+
+. 	
+Option 5: Choose three of the five IS Management Courses + all four IS Technology courses. Delete the Career Track and add three electives. 
+
+
+For 24-Unit Programs 
+For 24-unit programs, the Career Track should be deleted. 
+
+
+CONCLUSIONS ON MSIS 2006 
+We believe that the MSIS curriculum and its options meet the variety of needs of institutions around the world. We believe that ※one size§ does not fit all. Implementing these recommendations should reflect local constraints and objectives. We recognize that some institutions will implement the changes in stages while others will implement them all at once. For example, if a program begins by adopting our recommended Level 1, it adds two courses and revises the Integration course to meet the changing needs expressed by faculties teaching the MSIS 2000 curriculum.  When adopting Level 2, the curriculum needs to evolve to a much richer and integrated level of sophistication that closely reflects the rapidly changing infrastructure and technology environments our graduates will face upon graduation. 
+We recognize that the curriculum is organized by courses. This arrangement is needed because of the way universities present information. However, the curriculum also needs to be examined in terms of issues (e.g., security, compliance, mobility, and globalization). To show how the courses cross-cut issues, Appendix 7 presents a matrix that shows the course-issue interaction. 
+
+REFERENCES 
+Ashenhurst, R. L. (Ed.) (1972) A Report of the ACM Curriculum Committee on Computer Education for Management. New York:  Association for Computing Machinery 
+Davis, G. B. (2002) ※Information Systems as an Academic Discipline: Explaining the Future,§ Journal of Information Systems Education (4)4, Winter, pp. 2-7. 
+Davis, G. B., Gorgone, J. T., et al. (Eds.) (1997) ※IS＊97 Model Curriculum and Guidelines for Undergraduate Degree Programs in Information Systems,§ The Data Base for Advances in Information Systems (28)1, Winter.  
+Ferry, G. (2003) A Computer Called LEO London: Fourth Estate 
+Gorgone, J. T., and V. Kanabar, (1997) ※Status of Master＊s Degree Programs in Information Systems,§ Proceedings of the Twelfth Annual Conference of the International Academy for Information Management, Atlanta, Georgia, December 12-14, 1997. 
+Gorgone, J.T., P. Gray, et al. (2000), ※MSIS 2000; Model Curriculum and Guidelines for Graduate Degree Programs in Information Systems§ Communications of the Association for Information Systems, (7) 1, January, (Reprinted in Data Base, (31) 1, Winter). 
+Gorgone, J. T. and V. Kanabar (2003)  Prospective Tracks in the MSIS 2000 Model Curriculum Framework, Proceedings of the Americas Conference on Information Systems, August. 
+Gorgone, J. T., G. B. Davis, et al. (2003)  ※IS 2002:  Model Curriculum and Guidelines for Undergraduate Degree Programs in Information Systems. Communications of the Association for Information Systems, (11) 1, January, pages 1-63 (Reprinted in Data Base, (34) 1, Winter, pp. iv-52.) 
+Gorgone, John T., P. Gray, et al. (2005) ※MSIS 2006 Curriculum Preview§ Communications of the Association for Information System, (15) 30, April 2005. 
+Impagliazzo, John and John T. Gorgone (2002). ※Professional Accreditation of Information Systems Programs, Communications of the Association for Information Systems, (9)3 August pp. 50-63. 
+Nunamaker, Jr., J. F. Couger, J. D., and Davis, G. B. (Eds.) (1982) ※Information Systems Curriculum Recommendations for the 80s:  Undergraduate and Graduate Programs,§ Communications of the ACM (25)11, November, pp. 781-805. 
+Whiting, R. (2005) ※Business and Industry Knowledge Will Be a Priority for IT Staffs in 2008§ Information Week, September 13 
+APPENDIX 1. COURSE DESCRIPTIONS 
+The course descriptions in this appendix are intended as specifications to be used by individual instructors in preparing course syllabi. Institutions will, of course, tailor courses to their strengths and the needs of their students. Although topics within courses will vary and may receive different emphasis as the world of IS evolves, student competencies listed for each course must be achieved. 
+The required MSIS courses are described using the following conventions, which are based on those used in IS＊97, IS 2002, and MSIS 2000. 
+. 	
+Course Number and Title: MSIS2006.xx (Title) 
+
+. 	
+Catalog: A short description of course objectives and topics, which is suitable for inclusion in a college or university bulletin/catalog. 
+
+. 	
+Prerequisites: To be included in catalog description. 
+
+. 	
+Objectives: Specific competencies to be achieved by students as a result of taking the course. 
+
+. 	
+Topics: Major topic areas covered by the course.  
+
+. 	
+Discussion as appropriate. This section may place the course in the context of the total curriculum, and/or explain the philosophy underlying the selection of topics, and/or suggest pedagogical approaches for delivering the course. 
+
+
+
+INFORMATION SYSTEMS FOUNDATIONS.  
+Two courses are recommended as information systems (IS) foundations. Students usually take these foundation courses before they enter the MS program.  They are typically undergraduate courses. It is assumed that, if offered as graduate courses, they would be taught at a more conceptual and intense level. 
+It is also assumed that, prior to starting their MS program, students have the ability to deal with conventional PC software including word processing, e-mail, Internet tools, spreadsheets, presentation graphics, and external database retrieval. Note that this material is covered in the undergraduate curriculum and is not suitable for graduate credit. 
+The following course descriptions are based on IS 2002 (Gorgone et al., 2003). 
+PREREQUISITE COURSES 
+
+
+IS 2002.1 每 Fundamentals of Information Systems (Prerequisite: IS 2002.P0) CATALOG: 
+Systems theory, quality, decision making, and the organizational role of information systems are introduced. Information technology including computing and telecommunications systems are stressed. Concepts of organizations, information systems growth, and process improvement are introduced. 
+OBJECTIVES:  
+This course provides an introduction to systems and development concepts, information technology, and application software. It explains how information is used in organizations and how IT enables improvement in quality, timeliness, and competitive advantage. 
+TOPICS: 
+Systems concepts; system components and relationships; cost/value and quality of information; competitive advantage of information; specification, design, and re-engineering of information systems; application versus system software; package software solutions; procedural versus non-procedural programming languages; object oriented design; database features, functions, and architecture; networks and telecommunication systems and applications; characteristics of IS professionals and IS career paths; information security, crime, and ethics. Practical exercises may include developing macros, designing and implementing user interfaces and reports; developing a solution using database software. 
+DISCUSSION: 
+Students with practical end-user knowledge will study systems theory and quality concepts as an introduction to information technology concepts and information systems development. Structure and functions of computers and telecommunications systems will be examined. Standard systems purpose and organization will be introduced. 
+The concept that information is of significance in stating and attaining organizational goals will be used as the basis for exploring the development of databases to store information. Information systems will be introduced to process and communicate the information. The dynamic nature of organizations and the necessity for growth and re-design of the organization as well as its information systems will be presented and used as the motivator for understanding information systems development methodologies. 
+The development path for entry level to senior information systems professionals will be explained. Professional ethical expectations and obligations will be reviewed. The necessity for personal and interpersonal communications skills will be discussed. 
+ IS 2002.5 每 Programming, Data, File and Object Structures (Prerequisite: IS 2002.1) 
+CATALOG: 
+This course presents object oriented and procedural software engineering methodologies in data definition and measurement, abstract data type construction and use in developing screen editors, reports and other IS applications using data structures including indexed files. 
+OBJECTIVES:  
+This course provides an exposure to algorithm development, programming, computer concepts, and the design and application of data and file structures. It includes the use of logical and physical structures for both programs and data. 
+TOPICS: 
+Data structures and representation: characters, records, and files; precision of data; information representation, organization, and storage; algorithm development; programming control structures; program correctness, verification, and validation; file structures and representation. Programming in traditional and visual development environments that incorporate event-driven, object-oriented design. 
+DISCUSSION: 
+Students will gain in-depth understanding of defining and measuring events that produce data, both simple and complex, and principles, concepts, and practices of successful software development. 
+Formal problem solving strategies will be presented. Program design methods and strategies including top down implementation will be discussed and implemented. Graphic programming environments will be explored. Capabilities of a number of programming languages will be presented. Skills will be developed in at least one language supporting an indexed file system. 
+Software engineering principles will be practiced with a systems view. Students will learn to recognize objects and abstract data types, concepts of event driven and data flow models, module identification, modularity including parameters, module naming, cohesion, coupling desired and erroneous practices, and testing. Verification and validation methods will be presented and practiced by generating small modules and larger programs. 
+Specific data structures including arrays, records, stacks, queues, and trees will be created and used. The course will provide an introduction to the use of predefined user interface components.  
+IS TECHNOLOGY COURSES  
+
+
+ MSIS2006.1 IT Infrastructure (Level 2) 
+CATALOG: 
+Telecommunications fundamentals including data, voice, image, and video. The concepts, models, architectures, protocols, standards, and security for the design, implementation, and management of digital networks. Server architectures, server farms, cluster computing, and grid computing. Storage area networks and network attached storage, Data center design and implementation. Development of an integrated technical architecture (hardware, software, networks, and data) to serve organizational needs in a rapidly changing competitive and technological environment. Network, data and application architectures. Enterprise application integration, XML. Web Services. 
+PREREQUISITES: 
+IS foundations courses (IS 2002.1 and IS 2002.5)   
+OBJECTIVES:  
+This course develops a managerial level of technical knowledge and terminology for data, voice, image, and video communications and computer networks to effectively communicate with technical, operational and management people in telecommunications. Students are expected to understand and apply data communications concepts to situations encountered in industry; learn general concepts and techniques of data communications; understand the technology of the Internet; understand the most important server and storage architectures and the main mechanisms for providing high-capacity processing and storage capacity; and understand the regulatory environment.  
+The course develops capabilities that enable the students to make intelligent choices about computer architectures and platforms with appropriate emphasis on both organizational integration and flexibility/ The students will be able to: 
+. 	
+Understand the capabilities as well as the strengths and weaknesses of various computational, data, networking, and software architectures 
+
+. 	
+Provide an understanding of managerial issues and technologies related to interoperability: issues and technologies 
+
+. 	
+Provide an appreciation of the choice between open standards and proprietary solutions 
+
+. 	
+Understand the product strategies of major hardware, software, and telecom-munications vendors 
+
+. 	
+Understand how national and global standards organizations influence architectural standards, regulations, and future developments 
+
+. 	
+Design, implement and manage security and disaster recovery plans and business continuity from an overall organizational perspective 
+
+. 
+Examine issues related to the acquisitions and ongoing management 
+
+
+of products, services, and contracts TOPICS: 
+Technology Part of Course 
+.	
+ Telecommunication media 
+
+. 	
+Network equipment, software, and services 
+
+. 	
+Communication codes, data encoding, and synchronization 
+
+. 	
+Channel capacity, error correction strategies, data compression, and multiplexing 
+
+. 	
+Centralized, distributed, and client/server systems 
+
+. 	
+Architectures, topologies, and protocols 
+
+. 	
+Layered models as a mechanism for organizing networking technologies 
+
+. 	
+TCP/IP protocol suite and architecture 
+
+. 	
+Switches, routers, gateways, and other interconnection devices 
+
+. 	
+Network management  
+
+. 	
+Network security. Privacy and reliability considerations; technical foundations of business continuity 
+
+.	
+ Telecommunications standards 
+
+. 	
+Voice over IP; transmission of real-time data on IP networks 
+
+. 	
+Internet, intranets, and extranets 
+
+. 	
+Special issues associated with wireless access technologies; technologies enabling ubiquitous computing; business uses of mobile computing 
+
+. 	
+Application layer protocols; linking networking technologies with application services 
+
+. 	
+Server technologies and architectures 
+
+. 	
+Storage area networks and network attached storage 
+
+. 	
+Data center design and implementation 
+
+. 	
+Content management technologies 
+
+
+    Architecture Part of Course 
+. 
+Concepts of interoperability and standardization 
+
+. 	
+Network, data and application architectures 
+
+.	
+ Enterprise application integration 
+
+. 	
+Computer platforms and information architectures (e.g., legacy systems, client-server, and net-centric  technologies) 
+
+. 	
+Web Services. Role of XML and the Simple Object Access Protocol (SOAP), Service-oriented architecture. 
+
+. 	
+Enterprise systems and enterprise system architectures: e.g., ERP, workflow management systems, collaborative technologies, extranets 
+
+. 	
+Industry technology directions 
+
+
+DISCUSSION: 
+
+Philosophy underlying the selection of topics:  Because the student should be able to design and supervise the building of organizational telecommunication networks, this course focuses on technical as well as managerial aspects. 
+The course may be organized into three major activities:  
+1. 	
+State of the Practice: describe the components, software, and practices of currently installed computer networks. 
+
+2. 	
+State of the Market:  given a set of new requirements for global and/or enterprise-wide computer networking capability (including e-commerce) identify, examine, evaluate, and chose a set of available components and software that an organization can buy and/or build to satisfy the requirements.  Estimate initial and recurring costs. 
+
+3. 	
+State of the Art:  project the development of aspects of computer communications into the foreseeable future (two to five years) and provide feasibility, capability, and market projections. 
+
+
+MSIS2006.2 Analysis, Modeling and Design 
+CATALOG: 
+Systems development life cycle; analysis and design techniques; information systems planning and project identification and selection, requirements collection and structuring, process modeling, conceptual and logical data modeling, database implementation,design of the human-computer interface and data management, design of the human computer interface (HCI) System implementation and operation, system maintenance, and change management implications of systems.  
+Students will use current methods and tools such as rapid application development, object-oriented analysis and design, prototyping, and visual development. 
+PREREQUISITE OR CO-REQUISITE: 
+All IS foundations (IS 2002.1 and IS 2002.5) and all business foundations courses. 
+OBJECTIVES: 
+This course provides an understanding and application of system analysis and design processes. Students evaluate and choose appropriate system development methodologies and design a system.  Students learn the importance of effective communication and integration with users and user systems. The course emphasizes interpersonal skill development with clients, users, team members, and others associated with development, operation, and maintenance of systems.  
+TOPICS: 
+. 	
+Systems development methodologies including life cycle and iterative design models; development phases including systems selection and planning, analysis, logical design, physical design, implementation and operation, maintenance 
+
+. 	
+Techniques for requirements determination, collection, and organization (questionnaires, interviewing, document analysis, observation); joint application design (JAD) and other group approaches (e.g., electronic JAD, computer conferencing); prototyping 
+
+. 	
+Team organization and communication; interviewing, presentation design, and delivery; group dynamics; and leadership 
+
+. 	
+Project feasibility assessment and risk analysis 
+
+. 	
+Design reviews and structured walkthroughs 
+
+. 	
+Systems development life cycle; object-oriented analysis and design; Rapid Application Development (RAD); eXtreme programming; prototyping 
+
+. 	
+Core UML diagrams; principles underlying the widely used object-oriented process models. 
+
+. 	
+Data organization and design: conceptual data modeling; logical data modeling using relational technologies; database definition and manipulation using SQL 
+
+. 	
+Human-Computer Interaction design (depth of focus will depend on how overall curriculum is implemented 每 see MSIS 2006.9 for key topics) 
+
+. 	
+Software and system quality metrics 
+
+.	
+ Application categories 
+
+. 	
+Software package evaluation and acquisition, open source, 
+
+
+managing external relationships and procurement.  DISCUSSION: 
+Context of the course in the total curriculum: The analysis of an organization 〞 its users, data, and business processes 〞 and the subsequent design of computer systems to meet business requirements is at the heart of the information systems field.  Understanding the processes and techniques used to design and implement information systems is fundamental to managing 〞 identifying, analyzing, designing, implementing, operating, and evolving 〞 technical resources within an organization.  This course provides conceptual understanding of ※where systems come from§ and practical knowledge for managing the system development process. 
+Philosophy in the selection of topics: In the analysis, modeling, and design of both large and small information systems, it is typical that multiple individuals participate in the process.  It is common that analysts work with users, managers, and other analysts to design the system while also working with technical specialists and vendors to implement the required designs. Effective communication is at the heart of a successful information systems project.  To communicate effectively, a structured and disciplined approach to the systems analysis and design process is required. 
+Systems design and development is firmly rooted in an organizational context 〞 it is not merely a ※technical§ or ※computer§ activity, but a ※business§ activity. Success requires not only skill in system methodologies and techniques, but also in the management of people and projects. At a very fundamental level, the design and development of organizational information systems involves solving problems and communicating problem diagnoses and solutions to others in a wide range of forums and media.  Applying the methods, techniques, and tools used to determine information requirements, and to document these requirements in a thorough and unambiguous form, is fundamental to the success of the project. 
+In recent years, the object-oriented approach gained the status of a de facto standard that can be used during all phases of the systems development lifecycle from business process modeling to coding. This is built around these principles. The current standard diagramming language used in object-oriented systems analysis and design, UML, is introduced, as are some of the most widely used object-oriented software process models. At the same time, the course should acknowledge the practical importance of relational technologies in data management and deliver a solid introduction to conceptual data modeling, logical data modeling including normalization, and database implementation and manipulation using SQL. 
+MSIS 2006.3  Enterprise Models 
+CATALOG: 
+Provides a process-oriented view of the organization and its relationships with suppliers, customers, and competitors: processes as vehicles for achieving strategic objectives and transforming the organization; process analysis, design, implementation, control and monitoring; processes as a means of achieving compliance; impact on work; the role of enterprise resource planning (ERP), supply chain management (SCM), and customer relationship management (CRM) systems. The process continuum: from structured to unstructured processes. Impact on work practices. The role of systems in transforming organizations and markets; global perspectives. 
+PREREQUISITES OR CO-REQUISITES: 
+All IS foundation courses; IS2006.1; IS2006.2 
+OBJECTIVES: 
+Students learn: how to evaluate and understand the role of processes in a competitive environment; how processes integrate the internal functions of the firm and allow the firm to interact with its environment. They are able to recognize, model, and improve processes to achieve efficiency and compliance objectives. They understand the role of ERP, SCM, and CRM systems as components of the enterprise architecture; the impact of automation on work practices; unstructured collaborative and knowledge management processes. 
+TOPICS: 
+. 	
+A strategic view of processes; concepts of organizational efficiency and effectiveness 
+
+. 	
+Integrating the functional areas of the organization 
+
+. 	
+Relating processes to the financial, customer, and product-oriented goals of the firm 
+
+. 	
+Process innovation: analysis, modeling and simulation 
+
+. 	
+Business process automation  
+
+. 	
+Using Activity Diagrams and Business Process Modeling Notation (BPMN) for business process modeling. 
+
+. 	
+Business Process Modeling tools 
+
+. 	
+Job redesign; impacts of automation on work practices 
+
+. 	
+Achieving security and process compliance 
+
+. 	
+Monitoring and controlling processes 
+
+. 	
+Supply chain management (SCM) 
+
+. 	
+Customer relationship management CRM) 
+
+. 	
+Enterprise management systems (ERP) 
+
+. 	
+The process continuum: from structured to unstructured processes 
+
+. 	
+Collaborative systems 
+
+. 	
+Knowledge management systems 
+
+. 	
+Processes that span the world; global virtual markets. 
+
+
+DISCUSSION: 
+
+The evolution of information systems can be seen as a progression of concerns and competencies involving systems of ever increasing scope and complexity. In the early days, IS focused on individual programs and files; databases were introduced to integrate scattered and redundant files and to manage the data resources of the organization; workflow management and ERP systems were introduced to integrate the functional applications and their data, thus expanding the scope of IS to the total organizational system; supply chain management and customer relationship management systems increased the scope further to a distributed network of organizations and individuals; finally, the forces of globalization and sourcing expand the focus of IS to global networks that operate 24x7 and unite organizations and workers around the world into a virtual system of systems that has vast economic and geopolitical impacts that are beyond current understanding. From this viewpoint, processes can be seen as the glue that binds the organization, its functional areas, and its workers together into a single entity and that link the organization to its global environment. 
+The course starts by considering the strategic role of processes. The IS literature provides many familiar examples from American Hospital Supply through Dell Direct and Amazon. While strategic advantage may be transitory, most companies need efficient processes to remain competitive. The course then considers issues of organizational transformation and the relationship between organizational structures, processes, and the employee roles. Next, students learn how to develop process maps and design process improvements. The impact of regulations such as Sarbanes-Oxley and Gramm-Leach-Bliley on the controls that must be built into the firm＊s processes and databases are considered next.   
+The remaining sections of the course may receive more or less attention depending on the work that students have covered previously, the resources available to the institution, and the interests and expertise of the instructor. For example, students who have learnt ERP systems in the recommended two-course business prerequisite sequence will already understand the role of ERP in integrating the organizational areas, processes and databases of the firm. Instructors who have the interest and software may use a commercial workflow management system to illustrate business process automation, monitoring and control. Other instructors may emphasize collaborative, knowledge management or other unstructured processes and the impact of both structured and unstructured processes on the communities of practice within the firm. While the emphasis on these topics may vary, the instructor should ensure that students gain a balanced and integrated understanding of the multi-faceted role of processes in organizations and the global market place. 
+
+
+MSIS2006.4 EMERGING TECHNOLOGIES AND ISSUES 
+CATALOG: 
+This course addresses emerging technologies, how they evolve, how to identify them and the effect of international, political, social, economic and cultural factors on them. Topics covered in the course include accuracy of past technology forecasts, how to improve them, international perspectives on emerging technologies, future organizational and customer trends, and forecasting methodologies including monitoring, expert opinion, trend analysis and scenario construction.  
+PREREQUISITE OR COREQUISITE: 
+All IS business foundation courses; IS2006.1; IS2006.2 
+OBJECTIVES: 
+The course provides an understanding of both technical and managerial issues, as well as strategic implications of emerging technologies and issues. Upon completion of the course, students should be able to (a) understand key enabling technologies and become an effective participant in technology-enabled business endeavors and initiatives; 
+(b) recognize ways of leveraging the technology to improve intra and inter-organizational processes and enhance a firm＊s competitive position; (c) gain skills for building careers and taking advantage of entrepreneurial opportunities through emerging technologies, and (d) understand the factors that influence how relevant an emerging technology will be in the long run. 
+TOPICS: 
+. 	
+What are emerging technologies; what has their economic impact been to date; what is their potential impact; projections of future economic impact? 
+
+. 	
+The creation and transformation of goods and services through emerging technologies 
+
+. 	
+Impact on organizations, markets, industries and society 
+
+. 	
+How are technologies reshaping business? 
+
+. 	
+How can business leverage emerging technologies? 
+
+. 	
+How will increased transparency affect the balance of power between consumers and producers? 
+
+. 	
+How will "friction-free" markets affect the pricing and positioning of products and services? 
+
+. 	
+Theories of technological innovation 
+
+. 	
+An examination of the causes and the effects of past technological revolutions such as the railroad and electricity.  
+
+. 	
+The Death of Distance: An investigation of the cause and effect relationships between the new electronic technologies and increasing economic globalization. 
+
+. 	
+Information -- Its Cost, Value and Price: How do copyrights and 
+
+the ownership of information affect information-technology industries? Contrasts information as a public good with information as an owned commodity.  
+
+. 	
+Business Models: How firms are trying to make the Internet and the application of emerging technologies profitable. Information-dissemination businesses; web-based selling; the potential disintermediation of the retail sector; the financial sector.  
+
+. 	
+Nanotechnologies, RFID, and others 
+
+.	
+ Open Source 
+
+.	
+ Technology convergence 
+
+. 	
+Technological Trends: What innovations in the emerging technologies can we expect in the near future?  
+
+
+DISCUSSION: 
+Suggested pedagogical approaches to delivering the course*: 
+1. 	
+Create an electronic discussion forum for the course. 
+
+2. 	
+Define ＆emerging technologies＊ and discuss their importance in instructional settings. 
+
+3. 	
+Select an emerging technology and write a comprehensive literature review of its history including a description of the technology, how it is used to enhance the conduct of business. 
+
+4. 	
+Facilitate a demonstration and discussion on a specific emerging technology. 
+
+5. 	
+Plan a research study focused on an emerging technology 每 identify a research question, describe a theoretical framework and study argument, design a study 每 include research methods, subject selection, data collection techniques and instruments. 
+
+6. 	
+Demonstrate and discuss the convergence of technologies. 
+
+
+NOTE: The specific technologies the instructor discusses will change over time. 
+
+IS MANAGEMENT COURSES 
+MSIS2006.5 Project and Change Management 
+CATALOG: 
+Managing projects within an organizational context, including the processes related to initiating, planning, executing, controlling, reporting, and closing a project. Project integration, scope, time, cost, quality control, and risk management. Software size and cost estimation. Assigning work to programmer and other teams. Monitoring progress. Version control. Managing the organizational  change process. Identifying project champions, working with user teams, training, and documentation. The change management role of the IS specialist.  The use of sourcing and external procurement; contracts and managing partner relationships. 
+PREREQUISITES OR COREQUISITES: 
+MSIS2002.1, MSIS2002.5, and MSIS2006.2 
+OBJECTIVES: 
+Students develop detailed project plans, schedules, and budgets; estimate project resources; allocate/coordinate resources; and interface with management. They are expected to learn tools and techniques of project planning and management, including the use of project management software.  The course develops skills in the human and organizational implications of change including understanding the organizational change process; identifying stakeholders; assessing potential impacts of projects; and overcoming resistance, politics, and other human issues. 
+TOPICS: 
+Managing software / technology projects: 
+.	
+ Project lifecycle 
+
+.	
+ Project stakeholders 
+
+. 	
+Project management skills (leading, communicating, negotiating, influencing, and presenting) 
+
+. 	
+Project planning (definition, scope, schedule, costs, quality, resources, and risks) 
+
+. 	
+Estimating software size and cost.  
+
+. 	
+Software work module design, assignment, and control. 
+
+. 	
+Role of repository, project library, and version control. 
+
+.	
+ Contingency planning 
+
+. 	
+Project reporting and controls (definition, scope, schedule, costs, quality, resources, and risks),  
+
+
+. Testing and testing plans; alpha and beta.     Managing organization change: 
+. 	
+The role of IS specialists as change agents 
+
+. 	
+Envision change and the change process 
+
+. 	
+Diagnose and conceptualize change 
+
+. 	
+Deal with the challenges of implementation and understand and cope with resistance 
+
+. 	
+Deal with issues of motivation, interpersonal relations, group/team dynamics, and leadership in the change process; implications of cross-organization and international teams. 
+
+.	
+ Manage organizational politics 
+
+. 	
+The limitations of projects as organizational change initiatives 
+
+. 	
+Organizational influences on project success (culture, organizational structure, rewards, and measures) 
+
+. 	
+Software project management resources and professional development such as SMI and PMI. 
+
+. 	
+Additional activities required to ensure the success of IT projects (training, job redesign, communication, etc.) 
+
+. 	
+Manage sourcing partners as well as define contract and relationships 
+
+. 	
+Hands-on experience using project management software (e.g., 
+
+
+Microsoft Project). DISCUSSION: 
+Context of the course in the total curriculum:  This course introduces two major, related topics into the required portion of the MS program: project management and change management. MS degree holders in information systems will inevitably be involved in the management of IS projects and, as a result, in the management of the changes that projects introduce. This course is fundamental to almost all career tracks and essential for students who undertake a practicum.  
+Philosophy underlying the selection of topics:  Most information systems work is organized as a project rather than being department or function oriented. Therefore, it is essential for IS specialists to know how to manage projects effectively. But good project management alone is not sufficient to ensure organizational success with information systems. Work in this environment is a series of projects, which are conceived, staffed, completed, and shut down. Although IS projects are among the most challenging, being able to plan and manage any business project is an increasingly important and marketable skill.  This course examines the roles, responsibilities, tools, and techniques for effective project management. A blend of theory and practice, the course addresses project organization, project planning, project execution, and project control. Some of the topics in project management section were selected from the Project Management Institute＊s ※Project Management Body of Knowledge.§ PMI＊s Guide to the Project Management Body of Knowledge can be downloaded from www.pmi.org. Other topics relate more closely to software engineering. 
+Research shows that projects are a rather risky (i.e., failure-prone) way of attempting to create organization change. Therefore, IS specialists must understand and be able to apply alternative ways of bringing about organization change, such as dealing with organizational politics and designing systems that are culturally compatible. Further, organizational success with information systems usually requires the fulfillment of activities that are not always performed by IS specialists, such as job retraining and the development of new measurement and reward systems. IS specialists must understand what needs to get done and how to work with other specialists to ensure that these essential tasks are completed. 
+One way to frame the course is to look at project and change management as the integration of technical, cultural, and political dynamics and interactions, drawing out more explicitly the critical role of broader human, cultural, and political factors in the change process. 
+
+MSIS2006.6  Policy and Strategy 
+CATALOG: 
+The top management, strategic perspective for aligning competitive strategy, core competencies, and information systems. The development and implementation of policies and plans to achieve organizational goals. Defining the systems that support the operational, administrative, and strategic needs of the organization, its business units, and individual employees. Approaches to managing the information systems function in organizations, including examination of the dual challenges of effectively controlling the use of well-established information technologies, while experimenting with selected emerging technologies.  Role of the CIO.  
+PREREQUISITES: 
+MSIS2006.1 and MSIS2006.2, (or: for Level 1 implementations, MSIS2002.1, and MSIS2002.3, MSIS2006.2) 
+COREQUISITE: 
+MSIS2004.5 
+OBJECTIVES: 
+Students develop an understanding of the strategic use of information technology from a business perspective at the enterprise level. They are expected to understand the internal management of information systems services from the point of view of the CIO and to examine alternative strategies and tactics available to management to achieve goals. Working students and students with post-baccalaureate experience will be able to examine the current and potential impact of information and information technology on all aspects of their position, firm, and industry. Students without experience will be able to understand the strategic information thrust of potential employers. 
+TOPICS: 
+. 	
+Relationship between IS and the business 
+
+. 	
+Aligning IT with the cored competencies and strategies of the firm and assess the impacts on organizational competitive position  
+
+. 	
+Translate strategic and IT objectives into operating principles for IS planning 
+
+. 	
+IS planning including infrastructure planning and budgeting 
+
+. 	
+IS implementation   
+
+. 	
+Sourcing vs. insourcing 
+
+. 	
+Interorganizational systems and electronic commerce 
+
+. 	
+IS personnel, structure, and leadership   
+
+.	
+ Risk management 
+
+. 	
+The virtual organization 
+
+.	
+ Implications of globalization. 
+
+
+DISCUSSION: 
+Philosophy underlying the selection of topics:  This course is often taught as a case-based course near the end of the student＊s MS program. By that time, the student has developed a broad perspective on IS and knows about it at a detailed level.  This course, together with the Integrated Capstone course completes the managerial portion of the MSIS program. 
+MSIS 2006.7  Integrated Capstone 
+CATALOG: 
+This course focuses on the design and management of an overall organizational  system consisting of three interacting subsystems: (1) the enterprise itself - its structure, core processes, and relationships with external entities such as customers, suppliers, and outsourcers; (2)  the IS function and its role in marshalling information technologies and information assets to support the strategy of the organization, and (3) the information technology architecture consisting of the organization＊s networks, hardware, data, and applications. The student will learn how to integrate and synthesize these three aspects of the enterprise, how IT must be aligned with the strategy of the organization, and how to make appropriate choices about architecture in relationship to overall organization goals. 
+PREREQUISITES OR CO-REQUISITES: 
+All IS foundation and technology courses, all other management courses. 
+OBJECTIVES: 
+Provide the skills and knowledge needed to assume a leadership role in helping organizations utilize computer and communication systems to achieve their objectives. Students use the technical, managerial, and social skills developed in the rest of the MSIS 2006 curriculum to understand and develop reasoned responses to the major forces shaping the role of IT in organizations competing in a global economy.  
+TOPICS: 
+The Enterprise System. This section of the course focuses on organizational and managerial issues at the level of the enterprise as a whole:  
+. 	
+An integrated view of the firm and its relations with suppliers and customers 
+
+. 	
+Organizational strategy: customer, product, operational and compliance objectives and their implications for IT management and architecture 
+
+. 	
+Core business processes 
+
+. 	
+Role of ERP, supply chain and customer relationship management systems 
+
+. 	
+The economic value of information technology 
+
+. 	
+Strategic alignment of IT 
+
+
+The IS Function.  This section of the course focuses on managing the IS function to further the policy and strategies of the enterprise: 
+. 	
+IT＊s key business processes 
+
+. 	
+IT organizational structure and governance alternatives 
+
+. 	
+Human resource needs and management methods 
+
+. 	
+Methods to measure and demonstrate the value of IT 
+
+. 	
+Methods and organization to ensure regulatory compliance 
+
+.	
+ Managing sourcing 
+
+
+The Technologies.  This section of the course is concerned with how to develop an integrated enterprise architecture consonant with organizational policies and strategies: 
+. 	
+Evaluating and selecting among architectural and platform choices, priorities, and policies 
+
+. 	
+Assessing the impact of emerging technologies 
+
+. 	
+Evaluating the role of standards 
+
+. 	
+Evaluating the effect of vendor strategies 
+
+
+Overview. The final section of the course provides an overview of the information systems role in the enterprise: 
+. 	
+The role of the CIO 
+
+. 	
+The future role of information technology in the organization and society. 
+
+
+DISCUSSION: 
+This course is intended to help students use all aspects of the curriculum to help them understand emerging issues facing IT and organizations. Like MSIS 2006 Emerging Technologies, the course provides opportunities for the IT curriculum to evolve to meet new trends and developments. The first section of the course provides background on the business system itself, its linkages to external entities, and the importance of strategic IT alignment. This section serves to anchor the discussion in the remainder of the course. Succeeding sections of the course address major issues facing IT today:  how IT should best be organized to meet the needs of the organization, and the technology architecture needed to achieve strategic goals. These issues may vary over time and may be changed according to the work that students covered previously, and the interests and expertise of the instructor. The most important objective of the course is to broaden a student＊s understanding and ability to think creatively about organizational issues and the role of IT.  
+MSIS 2006.8 Implications of Digitization 
+CATALOG: 
+Understanding the implications of the digitization of data, information, and communications on organizations and society. These implications are examined in regard to ethical issues such as information privacy, accessibility, property, and accuracy. The proliferation of computer crime as well as the legal and regulatory environment are examined. The ramifications of digitization as they affect individuals, organizations, and society. The impacts of globalization, sourcing, technology workforce, and the digital divide are examined. 
+PREREQUISITES OR COREQUISITES: 
+All IS business foundation courses. 
+OBJECTIVES: 
+Students gain a thorough understanding of the influence of increasing digitization on organizations and society.  Digitization of information and the proliferation of global wired and wireless networks are enabling new relationships among organizations, new threats, and new ways of working. Students will examine the characteristics of the information age and explore the implications of emerging ethical concerns such as information privacy, accuracy, property, and accessibility. Students will also examine what constitutes a safe digital environment. 
+TOPICS: 
+. 	
+Information systems ethics; 
+
+o 	Ethical issues related to information privacy, accessibility, property, and accuracy. 
+
+o 	Employee monitoring and acceptable use policies. 
+
+o 	Internet enabled vices and the good of society. 
+
+o 	Important laws, regulations, compliance, and treaties including: Sarbanes-Oxley Act; Computer Fraud and Abuse Act, Electronic Communications Privacy Act, Identity Theft and Assumption Deterrence Act, Homeland Security Act; U.S. PATRIOT Act. 
+
+o 	Ethical guidelines for computing professionals. 
+
+o 	Ethical issues related to data retrieval  and data mining. 
+
+o 	Globalization and sourcing 
+
+o 	Copyright and intellectual property infringements, the role of peer-to-peer networks 
+
+o 	Mobility, virtualization, and privacy 
+
+o 	Blogging and the media 
+
+
+
+.	
+ Security 
+
+o 	How information is compromised including unauthorized access, information modification, denial of service, and viruses. 
+
+o 	Computer crime, cyberterrorism, and cyberwar. 
+
+o Computer viruses, worms, Trojan horses. 
+
+o 	Internet fraud, hoaxes and urban legends. 
+
+o 	Spam, adware, and spIM.  
+
+o 	Identity theft and cybersquatting. 
+
+o 	Computer security measures including technological (physical access restraints, firewalls, encryption, and audit controls) and human approaches (legal, effective management, ethics). 
+
+o 	Computer security planning including risk assessment, policy 
+
+
+
+
+development, implementation, training, and auditing. DISCUSSION: 
+As computing technology and digitization continues to proliferate throughout organizations and society, new issues of legality and ethical behavior have emerged.  Since laws don＊t define ethical behavior, but simply provide societal guidelines for acceptable behavior, a careful examination of the role of digital technologies in shaping ethical behavior is warranted.  In addition to ethical issues, the proliferation of digital technologies often creates unforeseen legal dilemmas that existing laws do not sufficiently cover. An examination of current laws, regulations, and treaties provides a foundation for understanding the fuzzy boundary between legal and ethical behavior. 
+The proliferation of digital technologies throughout society has enabled a plethora of behaviors that are shaping future business environments. A careful examination of various topics including intellectual property issues, computer crime 每 including viruses, fraud, and hoaxes, technology annoyances 每 including spam, spyware, cookies, and spIM, employee monitoring, globalization, identity theft, cyberwar and terrorism, and numerous others should be explored.  Once a clear understanding of broader organizational and societal implications are explored, professional codes of conduct as well as defining organizational policies for acceptable use should be examined. 
+
+MSIS2006.9 Human Computer Interaction 
+CATALOG: 
+Human characteristics and their impacts on developing human-centered information systems; fit between human, technology, and tasks to achieve high performance and satisfaction within organizational and business context; HCI development processes that concerns the entire lifecycle of the information system; HCI evaluation concerns, techniques, issues, and standards. 
+PREREQUISITES: 
+             IS foundations courses (IS 2002.1 and IS 2002.5)   
+OBJECTIVES: 
+This course provides an understanding of human physical, cognitive, and affective characteristics. Students learn how these characteristics will affect the development of human-centered information systems so that human limitations are compensated for and human strengths are maximized as users interact with information systems to accomplish organizational tasks. Students will understand and practice the processes of HCI development. Such processes concern the entire IS lifecycle, not just the screen design stage. Students also learn various HCI evaluation issues, concerns, techniques, and standards. 
+TOPICS: 
+. 	
+The organizational and business context of HCI 
+
+.	
+ Interactive technologies 
+
+. 	
+Ergonomic engineering, cognitive engineering, affective engineering 
+
+. 	
+Evaluation issues, concerns, techniques and standards 
+
+. 	
+HCI design principles and guidelines 
+
+. 	
+Tasks in organizational context 
+
+.	
+ Componential design 
+
+. 	
+HCI development methodology and its relation to Systems Analysis and Design 
+
+. 	
+Impacts of HCI on users, organizations, and society 
+
+. 	
+Business value of HCI 
+
+
+DISCUSSION: 
+This course is not about developing basic interactive technologies (such as input/output devices); it briefly introduces these technologies, and then focuses on developing human-centered organizational information systems that support users＊ organizational tasks. Human physical, cognitive, and affective characteristics are discussed, as are organizational tasks and context. Such discussions are oriented toward achieving a good fit between human, technology, and tasks within the organizational and business context. 
+Since information systems analysis and design is intrinsically related to this course, a methodology that streamlines the different concerns of SA&D and HCI is helpful to provide students with a unified view of developing human-centered IS that support both organizational and human needs. 
+Evaluation plays an important role in HCI. The course should also cover evaluation concerns, issues, and techniques. Industry standards on usability evaluation should also be covered in the course. 
+
+MSIS2000.1 Data Management9 (Level 1) 
+CATALOG: 
+The concepts, principles, issues and techniques for managing corporate data resources. Techniques for managing the design and development of large database systems including logical data models, concurrent processing, data distribution, database administration, data warehousing, data cleansing, and data retrieval. 
+PREREQUISITE: 
+IS 2002.5 Programming, Data, File and Object Structures 
+OBJECTIVES: 
+This course provides an understanding of the issues in managing database systems as an essential organizational resource.  Students learn enterprise data architecture components, data storage configurations, and information retrieval methods. The course proceeds from the relational model to the multidimensional model, object-relational techniques, and web accessed data. 
+TOPICS: 
+. 	
+The variety and complexity of current data management systems and evolving data management technology 
+
+. 	
+The entity relationship model 
+
+.	
+ Normalization 
+
+. 	
+Relational integrity and concurrency control 
+
+. 	
+Comparison of normalized and denormalized models 
+
+. 	
+Limitations inherent in the relational model and possible solutions including object-oriented databases, object-relational databases, and multi-dimensional databases. 
+
+. 	
+Large text files, multi-media and embedded information needed for a complete information set 
+
+. 	
+Enterprise data architecture components and data requirements 
+
+. 	
+Techniques for managing the design, development, and maintenance of large database systems and data warehouses; methods for handling terabyte data sets and integrating the data with internal and external data sources, including data cleansing 
+
+.	
+ Role and responsibilities of the database administrator; maintaining the data base, privacy and security, recovery, and tuning 
+
+. 	
+Retrieving information using SQL and other methods 
+
+.	
+ Data mining 
+
+.	
+ Machine learning. 
+
+
+DISCUSSION: 
+Suggested pedagogical approaches to delivering the course: 
+9 This course is an updated version of the same course from MSIS2000. It is for use in Level 1 but not in Level 2. 
+1. 
+Design, build and implement a database 
+
+2. 
+Exercise the database built under various conditions 
+
+3. 
+Query the database using SQL 
+
+4. 
+Use SQL to demonstrate implementation problems 
+
+5. 
+Evaluate file storage and transfer methods 
+
+6. 
+Sort and merge files 
+
+7. 
+Interview real or mock users 
+
+8. 
+Case discussions to demonstrate management issues
+
+ 9. 
+Lectures 
+
+10. 
+Team projects 
+
+11. 
+In-class student presentations  
+
+
+MSIS2000.3 Data Communications and Networking10     (Level 1) 
+CATALOG: 
+Telecommunications fundamentals including data, voice, image, and video. The concepts, models, architectures, protocols, standards, and security for the design, implementation, and management of digital networks. Essentials of local area networks (LAN), metropolitan area networks (MAN), and wide area networks (WAN). Transmission and switching efficiency. Regulatory and technical environments. Topics include security and authentication, network operating systems, e-commerce and associated web sites and practices, and middleware for wireless systems, multimedia, and conferencing.  
+PREREQUISITES: 
+IS foundations courses (IS＊2002.1, IS＊2002.4, IS＊2002.5)   
+OBJECTIVES: 
+This course develops a managerial level of technical knowledge and terminology for data, voice, image, and video communications and computer networks to effectively communicate with technical, operational and management people in telecommunications. Students are expected to understand and apply data communications concepts to situations encountered in industry; learn general concepts and techniques of data communications; understand the technology of the Internet; and understand the regulatory environment.  
+TOPICS: 
+.
+ Telecommunication media 
+
+. 
+Modulation techniques and multiplexing 
+
+. 
+Network equipment, software, and services 
+
+. 
+Communication codes, data encoding, and synchronization  
+
+. 
+Channel capacity, error correction strategies, and data compression  
+
+.
+ Centralized, distributed, and client/server systems 
+
+. 
+Architectures, topologies, and protocols 
+
+. 
+Switches, routers, gateways, and other interconnection devices 
+
+. 
+Network management  
+
+. 
+Privacy, security, and reliability considerations 
+
+. 
+LAN, MAN, and WAN and internetworking 
+
+.
+ Telecommunications standards 
+
+. 
+Policy and standards-making organizations  
+
+. 
+Internet, intranets, and extranets 
+
+.
+ Electronic commerce 
+
+.
+ Distributed systems 
+
+. 
+Middleware for wireless communications, multimedia, and conferencing. 
+
+
+DISCUSSION: 
+10 This course is an updated version of the same course from MSIS2000. It is for use in Level 1 but not in Level 2. 
+Philosophy underlying the selection of topics:  Because the student should be able to design and supervise the building of organizational telecommunication networks, this course focuses on technical as well as managerial aspects. 
+Suggested pedagogical approaches for delivering the course:  The course may be organized into three major activities:  
+1. 	
+State of the Practice: Describe the components, software, and practices of currently installed computer networks. 
+
+2. 	
+State of the Market:  Given a set of new requirement for global and/or enterprise-wide computer networking capability (including e-commerce), identify, examine, evaluate, and chose a set of available components and software that an organization can buy and/or build to satisfy the requirements.  Estimate initial and recurring costs. 
+
+3. 	
+State of the Art:  Project the development of aspects of computer communications into the foreseeable future (two to five years) and provide feasibility, capability, and market projections. 
+
+
+APPENDIX 2. PREREQUISITE STRUCTURE, COURSE 
+SCHEDULES AND STAFFING 
+
+Figure A2-1 shows the prerequisite structure for the MS in IS program.  The courses are grouped into four blocks: 
+1. 
+Business and IS Foundations (Courses B1, B2, B3, F1, F2) 
+
+2. 
+MSIS Core (Courses C1 through C8) 
+
+3. 
+Integrated Capstone (Course C9) 
+
+4. 
+Career Track Electives (Courses T1 through T4).  
+
+
+
+
+Foundations 
+Business Foundations (Business Prerequisites) 
+Financial Accounting Consumer-Oriented Marketing Organizational Behavior OR: Two course graduate sequence on integrated business functions and processes 
+IS Foundations (Technical Prerequisites) 
+IS 2002.1 每 Fundamentals of Information Systems IS 2002.5 每 Programming, Data, File and Object Structures 
+
+
+
+IS Core 
+MSIS 2006.1 IT Infrastructure MSIS 2006.2 Analysis, Modeling and Design MSIS 2006.3 Enterprise Models MSIS 2006.4 Emerging Technologies and Issues MSIS 2006.5 Project and Change Management 
+Career Track Electives 
+Four courses 
+
+
+IS Core 
+MSIS 2006.7 Integrated Capstone 
+Figure A1. Prerequisite Structure 
+Tables A1 through A4 show suggested course sequences viewed from a student perspective. The tables distinguish between: 
+. 	
+full-time and part-time students 
+
+. 	
+students who have no foundation course, and students who have completed all the foundation requirements  
+
+. 	
+for full-time students, whether the students take four or five courses per 
+
+
+semester Note that in the case of part-time students with no foundation courses, it is assumed that students enter in the Spring.  In that way, students without prerequisites and those with prerequisites can be merged into a single group in the fall. 
+Key for Tables A1 through A4: 
+B1, B2, B3  Business Foundation Courses  
+F1, F2  Information Systems Foundation Courses  
+C1, C2, C3, C4, C5, C6, C8 or C9  Information Systems Core  
+C7  Integrated Capstone  
+T1, T2, T3  Career Track Elective  
+T4* 〞  Practicum or Career Track Elective  
+
+Table A1. Course Schedules for Full-Time Students Entering the MSIS Program with No Prior IS or Business Background 
+Semester  Spring  Summer  Fall  Spring  Summer  
+Courses (5 per semester)  F1, F2, B1, B2, C1  C2, C3, C4 B3, T1  C5, C6, C8 (or C9) T2, T3  C7 T4*  
+Courses (4 per semester)  F1, F2, B1, B2  T1, B3  C1, C2, C3 T2  C4, C5,C6 T3  C7,C8 (or C9), T4*  
+
+Table A2. Course Schedule for Full-time Students Entering the MS with All 
+Foundation Courses Satisfied 
+
+Semester  Fall  Spring  Summer  
+Courses (5 per semester)  C1, C2, C3 T1, T2  C4, C5, C6 T3, T4*  C8 (or C9) C7  
+Courses (4 per semester)  C1, C2, C3 T1  C4, C5 T2, T3  C8 (or C9) C6, C7 T4*  
+
+Table A3. Course Schedules for Part-Time Students Entering the MS with No Prior Background 
+Semester  Fall  Spring  Summer  Fall  Spring  Summer  Fall  Spring  Summer  
+Courses (2 per semester)  F1 B1  F2 B2  B3  C1 C2  C3 C5  T1,C4  T2, C6  T3, T4*  C7,C8 (or C9)  
+
+Table A4. Course Schedule for Part-Time Students Entering the MS with All 
+Foundation Courses Satisfied 
+
+Semester  Fall  Spring  Summer  Fall  Spring  Summer  
+Courses (2 per semester)  C1 C2  C3 T1  C6 T4*  C4 T2  C5 T3  C7 C8 (or C9)  
+
+Table A5 shows the courses that need to be offered for each of the alternatives shown in Tables A1 through A4. It is assumed that full time students without foundation courses enter in the Spring semester. 
+Table A5. Staffing Requirements for MSIS Program 
+
+Fall  Spring  Summer  
+Full-time 5 courses/semester All Foundations taken  C1, C2, C3 T1, T2  C4, C5, C6 T3, T4*  C8 (or C9) C7  
+Full-time 4 courses/semester All Foundations taken  C1, C2, C3 T1  C4, C5 T2, T3  C8 (or C9) C6, C7 T4*  
+Full-time 5 courses/semester No Foundation taken  C2, C3, C4, B3, T1  F1, F2, B1, B2, C1 C5, C6, C8, (or C9), T2, T3  C7, T4*  
+Full-time 4 courses/semester No Foundations taken  C1,C2, C3, T2  F1, F2, B1, B2, C4, C5, C6, T3  B3, T1, T4* C7, C8 (or C9)  
+Part-time No Foundations taken  F1, B1,C1, C2 T2,C6  F2, B2, C3, C5, T3, T4*  B3, T1, C4, C7, C8 (or C9)  
+Part-time All Foundations taken  C1, C2, C4 T2  C3, C5 T1, T3  C6, C7, C8 (or C9), T4*  
+
+APPENDIX 3. RESOURCE REQUIREMENTS 
+
+A successful MSIS degree program requires adequate resources.  It must be understood that graduate programs are normally more resource intensive than undergraduate programs. In particular, given the rapid changes in IS technology and programs in IS that are computing-intensive are even more resource-intensive than those that stress organizational issues.  
+A knowledgeable and enabled faculty is at the core of any successful program.  In addition, computing, laboratory, classroom, and library resources are essential elements. In a rapidly changing technical environment, students should be exposed to a variety of computing hardware and software resources that represent the settings in which they will work. The requirements imply that MS programs involve a substantial commitment on the part of the institution. 
+
+
+FACULTY 
+Faculty members are vital to the strength of an MS program. With the curriculum＊s emphasis on both concept and practice, the MS faculty should have, ideally, both academic training and practical experience. In many cases, particularly true for emerging topics in new career tracks, adjunct faculty may need to be appointed to cover specialized topics.  The number of faculty must be sufficient to provide course offerings that allow the students to complete a degree in a timely manner. The interests, qualifications, and number of full-time faculty must be sufficient not only to teach the courses but also to plan and modify the courses and curriculum over time. 
+The IS field is moving at a rapid pace and MS programs must reflect leading edge practices so that the student receives value from the degree for a number of years after graduation.  As a result, faculty members must remain current in the discipline. Professional development and scholarly activities are a joint obligation of the institution and the individual faculty member.  Given the rapidly changing technology, it is particularly important that faculty members have sufficient time for professional development and scholarly activities.  To make sure that the faculty remains current, resources should be provided for faculty to attend conferences, workshops, and seminars regularly and to participate in academic and professional organizations. The MS program is enhanced significantly when faculty acquire practical experience in the profession through activities such as consulting, sabbatical leaves, and industry exchange programs. Graduate faculty members should regularly contribute to the discipline through publication. 
+Faculty must also develop teaching materials for their students. To do so, they need to have technology available (including networking and Internet access) at least equivalent to and compatible with that available at the leading industrial sites where students will be placed. 
+Master＊s courses typically require greater preparation and more intense student interaction than undergraduate courses.  Furthermore, most institutions will offer only one section of a given graduate course in a semester. Thus, for example, there is no opportunity to teach multiple sections with a single preparation. The net result is that teaching loads for faculty in MS programs should be less than those for faculty only teaching at the undergraduate level. 
+
+TECHNOLOGY INFRASTRUCTURE 
+Internet access, networking and computing resources must be available, accessible, systematically maintained and upgraded, and otherwise adequately supported to enable graduate students to achieve the MS program＊s outcomes and to support graduate faculty teaching needs and scholarly activities.  The university must ensure that the most current technology used in industry is available to both students and faculty.  Although it is reasonable to expect all students to have access to their own personal computers and handheld devices, their systems will have a wide range of capabilities.  At present (2005), it is necessary for the institution to provide a database system, case tools, object-oriented software, project management software, and other specialized software packages beyond an office suite. Furthermore, many institutions will want to provide mainframe, server, PC, and handheld computing experience to their MS students.  
+The rate of change in technology suggests a maximum three-year upgrade cycle so that at least a subset of the equipment and software is replaced each year.  University laboratories must be maintained with these requirements in mind.  It is strongly recommended that a computing resource plan be in place that is reviewed and updated frequently.  It is important that institutions budget computer-related upgrade costs so that they become a line item in the department＊s or institution＊s regular operating budget.  
+The specific computing requirements depend on the offerings of the institution, and particularly on the career tracks selected. 
+
+INSTITUTIONAL FACILITIES 
+The institutional facilities including the library, other electronic information retrieval systems, computer networks, classrooms, and offices must be adequate to support the educational objectives and outcomes of the masters-level educational program.  Physical space requirements include faculty and staff offices, classrooms, study rooms, library, and laboratories.  Not only must the space be sufficient, but it must provide adequate electrical and network infrastructure and climate control.  Classrooms should be equipped with the capability for multimedia presentations by both faculty and students.  The more senior, research-oriented faculty and student body must be supported with adequate library facilities.  These facilities include both books and journals. Fortunately, most journals in IS are relatively inexpensive and more journals are available electronically.  
+
+INSTITUTIONAL SUPPORT AND FINANCIAL RESOURCES 
+The institution＊s support for the program and the financial resources available to the master＊s program need to be sufficient to attract and retain qualified faculty, administer the program effectively, acquire and maintain the technology infrastructure, including network and computing resources and laboratories, and otherwise provide an environment in which the master＊s level program can achieve its educational objectives and outcomes.  Support and resources need to be sufficient to provide assurance that the program will retain its strength in the long-term. 
+APPENDIX 4. REPRESENTATIVE CAREER TRACKS AND 
+SUGGESTED COURSES 
+
+This appendix lists 24 representative career tracks and the titles of the courses suggested for them. Note that in several cases (e.g., Managing the IS Function, Mobile Computing, Telecommunications) two alternatives are shown.  
+Academia (path to Doctorate)  Knowledge Management  
+. Principles of IS Research  . Knowledge Management and the Learning  
+. Teaching Skills   Organization  
+. Statistical Research Methods  . Document Management  
+. Advanced Elective in Teaching  . Data Warehousing . Data retrieval and Knowledge Acquisition  
+Computer Forensics  Managing the IS Function (Internal to IS)     
+. Criminal Law (or Criminal Justice)  . Role of the CIO  
+. Information Assurance & Security  . Management of Computer Personnel  
+. Computer Forensics   Operations  
+. Network Forensics   . Management of Telecommunications Resources . IS Security  
+Consulting  Managing the IS Function (Internal to IS)     
+. Consulting in Business  . Network Management  
+. Consulting in IS  . Pervasive and Ubiquitous Systems  
+. Advanced Project Management or  . Mobile Services  
+Advanced Change Management  . Mobile Businesses  
+. Elective in Consulting Area (e.g.,  
+knowledge management, ERP, telecom)  
+Data Management and Data Warehousing . Database Administration . Database Systems Planning . Data Warehousing . Knowledge Management  Mobile Computing (Technical) . Wireless Networks . Pervasive and Ubiquitous Systems . Infrastructure Design  . Network Management  
+Data Warehousing and Data Mining . Designing and Implementing a Data Warehouse . Data Warehouse Information Access and Data Quality . Data Warehouse Design and Analysis Techniques . Data Mining  Mobile Computing II (Managerial)  . Network Management . Pervasive and Ubiquitous Systems . Mobile Services . Mobile Businesses  
+Database and Multi-tiered Systems  New Ways of Working  
+. Database Systems  .Telecommuting and Virtual Organizations   
+. Architecture and Design of Multi-tiered  .Workflow and Collaborative Work    
+Systems  .Multimedia  
+. Business Data Communications and  .Internet, Intranets, and Extranet  
+Networks  
+. Advanced Database Systems  
+
+Decision Making  Project Management  
+. Decision Support and Executive  . Advanced Project Management  
+Information Systems  . Advanced Change Management  
+. Data Warehousing  . Sourcing  
+. Simulation and Modeling  . Virtual Organization or Telecommuting  
+. Human-Computer Interaction  
+Electronic Commerce (Alternative 1)  Security  
+. Internet, Intranets, and Extranets  . Data Communications, Operating  
+. Electronic Commerce   Systems, and Web Servers  
+. WWW and the Value Chain  . Network Management and Computer  
+. Consumer Relationship Marketing  Security . Information System Security . Databases and security  
+Electronic Commerce (Alternative 2)   Systems Analysis & Design  
+. E-Business and e-commerce  . Advanced Design Methodologies (e.g.,  
+. Web technology and Languages  Object-Oriented, RAD)  
+. Customer Relationship Management  . Advanced Project Management  
+. Data and Transaction Security  . System Integration . IS Consulting  
+Enterprise Resources Planning  Technology Management  
+. ERP Systems  . Emerging Technologies and Technology  
+. Business Process Management  Forecasting  
+. Internet, Intranets, and Extranets  . Globalization  
+. Systems Integration  . Advanced Project Management . Organizational Aspects of Technology Management  
+Global IT Management  Telecommunications (Alternative 1)  
+. Trans-border EDI and Data Flows  . Telecommunications Technology  
+. Virtual Organizations  . Managing the Telecommunications  
+. Knowledge Management  Resource  
+. Global Cultural Implications for IS  . Internet, Intranets, and Extranets . Electronic Commerce  
+Human Factors . Ergonomics of Computing . Interface Design . Usability Analysis and Testing . Multimedia Design and Production  Telecommunications (Alternative 2) . Communications and Computer Networks . Business Structure and Strategy in the Telecommunications Industry . Technical Foundations of Telecommunications . Strategic Management and Regulation of Global Networks  
+
+APPENDIX 5. AN ALTERNATE WAY OF SATISFYING BUSINESS 
+
+PREREQUISITES 
+The intent of the Business Prerequisite requirements for the MSIS program is to make sure that entering students are conversant with the knowledge and nomenclature of business that pervades the MSIS program. Over the years, the MSIS curriculum Task Force found that the standard approach of asking students to take selected traditional, stand-alone business courses (financial accounting, marketing, and organizational behavior) as a way of meeting this requirement left much to be desired. It required students from non-business disciplines to spend nine credit hours on undergraduate courses, almost a whole semester, to build a baseline of business knowledge.  Unfortunately, many business topics needed by MS graduates are not usually covered in these courses (at least not from the IS point of view) while other topics not of immediate use to MSIS students are included. We therefore suggest a two-semester, two course graduate sequence that covers the necessary background in finance, accounting, marketing, management, and other business areas at a higher, integrated level that is more relevant for our students. 
+ In this appendix, we present an initial design for this sequence. 
+
+THE COURSE 
+National and global enterprises expect managers to look beyond their specific functional business and/or technical knowledge areas.  Past, current, and emerging information technologies contribute significantly to blending traditional boundaries between intra- and/or inter-organizational functions.  Global organizations expect managers to bring a cross-functional or multi-functional view of their company and apply it to their current problems, opportunities, and daily activities.  They must know how to apply information systems and technology to facilitate innovative, competitive, and often global business solutions.  Similarly, information systems personnel must understand and be able to function in today＊s complex business environment.  To do so they need to understand how the business works and how information systems determine the processes by which business is carried on.  
+The subject of information systems and technology in solving business problems is not new but it is primarily presented in the context of a specific functional area of business, such as accounting, marketing, management, and organizational behavior or departmental ※stovepipes§ or ※silos§ with little emphasis on how these functional areas interact within the organization and/or with other organizations.  We believe that by looking at business processes that cut across functional areas, future IS managers will be able to understand the organization, its customers, suppliers, and partners, as a progression of related and integrated complex systems.  An example is the processes that span multiple organizations, especially the processes that are associated with the supply chain management.  The business process approach permits the study of individual processes within the organization to determine the degree to which they add value to the firm. In so doing, the student learns about how the various portions of the firm (and its outsourcers and contractors) are interconnected with one another. Table A6 lists the topics proposed for this two-semester sequence. 
+Table A6. Topics for a Two Semester Graduate Level Business Process Sequence 
+
+Business Process Analysis Problem Identification Business Process Problems Process Mapping Modeling Enterprise Processes Measuring Enterprise Processes Evaluating Enterprise Processes  Benchmarking Business Process Reengineering Creating Alternative Recommendations Constructing a Business Case for Recommended Solution(s) Aligning and Linking the Enterprise＊s Strategy     and Its Key Business Processes  
+
+Finally, the Task Force believes that these courses can well be taught by IS faculty with a strong background in business either in practice or in academic training.  These courses should not be assigned to a specialist who is unskilled in or unfamiliar with the business implications of information systems. 
+APPENDIX 6. SUMMARY OF CURRICULUM COURSE 
+REQUIREMENTS 
+
+FOUNDATION 
+IS Foundations (Technical Prerequisites) 
+IS＊2002.1 每 Fundamentals of Information Systems IS＊2002.5 每 Programming, Data and Object Structures 
+
+Business Foundations (Business Prerequisites) 
+Financial Accounting 
+Organizational Behavior 
+Customer-Oriented Marketing 
+
+Or a 2-course sequence on functions and processes (Appendix 5) 
+IS CORE
+
+ IS Technology 
+MSIS2006.1 每 IT Infrastructure 
+MSIS2006.2 每 Analysis, Modeling and Design 
+MSIS2006.3 每 Enterprise Models 
+MSIS2006.4 -  Emerging Technologies and Issues 
+
+
+IS Management 
+MSIS2006.5 每 Project and Change Management 
+MSIS2006.6 每Strategy and Policy 
+MSIS2006.7 每 Integrated Capstone 
+MSIS2006.8 每 Implications of Digitization 
+MSIS2006.9 -  Human Computer Interaction 
+
+
+ MSIS 2000 Updated Courses included in Level 111
+ MSIS2000.1 每 Data Management 
+MSIS2000.3 -  Data Communications and Networking 
+
+
+
+CAREER ELECTIVES 
+Four career-oriented courses 〞 may include a practicum.  See Appendix 4 for a list of representative tracks, and for courses included in each track. 
+11 As indicated in the discussion of Level 1 in the Executive Summary and in the Task Force Recommendation sections, institutions can choose to update two of the technology courses from MSIS2000 until staffing and resources become available.  These courses are described in the Level 1 category.  
+APPENDIX 7. A MATRIX OF COURSES AND TOPICS 
+
+The MSIS 2006 curriculum, like its predecessors, is organized around conventional, discipline-oriented managerial and technical courses taught by IS faculty.  Students, when they go back into the workplace, find that many problems are not oriented around the subjects of the courses, but around problem areas each of which uses ideas from several courses.  To help faculties understand these interactions, Table A-1 shows how the course offerings in the MSIS 2006 curriculum cut across a representative sample of major IS issues. Specifically, Table A-2 looks at the following issues: 
+.
+ Security . Business Processes . Virtuality 
+
+.
+ Compliance . Information Volume . Sourcing/Globalization 
+
+.
+ Technology Integration . Mobility In Table A-2, a strong relationship is shown by a 1, a moderate relationship by a 2 and a weak relationship by a blank.  Note that these numbers are opinions. Individuals may disagree on whether a cell is a 1, a 2 or is blank. The important point is to recognize that this matrix of courses and concepts exist and that course designs need to deal with these interrelated concepts. 
+
+
+Table A7. Matrix of Courses and Topics 
+
+COURSE  Security  Compli-ance  Technology  Integration  Business Processes  Information Volume  Mobility  Virtuality  Sourcing/ Globaliza-tion  
+IT Infrastructure  2  1  2  1  2  1  1  1  
+Analysis, Modeling, and Design   1  1  1  2  1  1  1  
+Enterprise Models  1  1  2  2  1  2  
+Emerging Technologies and Issues  1  1  2  1  2  
+Project and Change Mgmt.  1  1  2  
+Strategy and Policy  1  1  1  1  2  1  1  2  
+Implications of Digitization  2  1  2  1  2  1  1  2  
+HCI  1  1  1  
+Integrated Capstone  1  2  1  1  1  
+
+APPENDIX 8 BACKGROUND AND PROCESS 
+
+HISTORY 
+MSIS 2006 is the fourth masters＊ level model curriculum in information systems report issued since 1972.  The first IS report was published in 1972 [Ashenhurst 1972].  The second MS IS model curriculum was published in 1982 [Nunamaker et al. 1982]. This program is summarized in Sidebar I. The third report [Gorgone, Gray et al. 2000] was not produced until 18 years later at the beginning of the new millennium.  The next subsection discusses the background and process to develop MSIS 2000.  This discussion is followed by a description of the process used to produce the current report. 
+
+SIDEBAR I: THE 1982 MODEL CURRICULUM 
+Nunamaker et al. [1982] describe the distinctive character of IS curriculum, general prerequisites, degree programs (MS and MBA), and implementation. The MS in IS includes AACSB common body of business knowledge and ten IS courses to prepare a student to become, primarily, a systems designer. It includes prerequisites and course requirements.  
+General Prerequisites: (1) finite mathematics, (2) elementary statistics, (3) elementary computer programming, (4) elementary economics, and (5) elementary psychology. 
+Specific Prerequisites:  Computer programming and quantitative methods; AACSB Common Body of Knowledge 
+IS Technology Courses: 
+IS1 Computer Concepts and Software Systems 
+IS2 Program, Data, and File Structures 
+IS4 Database Management Systems 
+IS6 Data Communications Systems and Networks 
+IS7 Modeling and Decision Systems 
+
+IS Concepts in Organizations 
+IS3 Information Systems in Organizations 
+IS5 Information Analysis 
+IS8 Systems Design Process 
+IS9 Information Systems Policy 
+
+IS10 Information Systems Projects (Practicum) 
+MSIS 2000 Background and Process 
+By the late 1980s, it became clear that the curriculum needed to be revisited. A meeting of interested parties was therefore held at the University of Arizona under the leadership of Jay Nunamaker. The meeting participants judged the existing 1982 curriculum still serviceable. The only major change developed was splitting the decision support course into two separate courses, one in DSS and the other in Artificial Intelligence, with students selecting one or the other. The rest of the program remained the same. No documentation of this meeting was published. 
+The next step occurred at the first AIS Americas meeting, held in Pittsburgh in August 1995. Paul Gray of Claremont Graduate University, after a set of discussions over e-
+mail, invited all interested institutions to send a representative to a session at Pittsburgh. Approximately 50 people attended, including representatives of institutions with and without MSIS degrees. It was agreed to meet again in the following year.  Two of the attendees, John Gorgone of Bentley College and Vijay Kanabar of Boston University, offered to study existing programs so that a baseline could be created that indicated what was then being offered. The results were published in Gorgone and Kanabar [1997] and reported at a meeting at AIS Americas 1996 jointly chaired by Paul Gray and John Gorgone. The content and length of these programs varied widely.  It was clear that a new model curriculum would be appropriate. 
+While Curriculum ＊82 was a useful course reference, course content had changed drastically by 1996. The external job market changed and IS graduates were being offered a broader range of opportunities. New technologies appeared. New concepts became important: competitive and strategic use of IS, project management, change management, and collaborative work.  More skills were needed in GUI and object-oriented design. Some MS programs became more technical, some more managerial, and still others were interested in change agent roles or the economics of computing. Organizations continued to invest heavily in information technology and information resources. At that point in time, the rapid changes did not appear likely to end. 
+Sidebar II presents the details of how the MSIS 2000 curriculum was developed.  
+
+MSIS 2006 Background and Process 
+MSIS 2006, Model Curriculum and Guidelines for Graduate Degree Programs in Information Systems is the fourth collaborative effort12 between ACM and AIS.  Both organizations serve a worldwide membership.  ACM includes both professional and academic members in the broad field of computing.  Through its Education Board, it supports a wide range of curriculum development including computer science, information systems, information technology, and software engineering. AIS, organized in 1994, is composed of faculty members in information systems.  The partnership of ACM and AIS, therefore, combines the breadth of interest of ACM and the information systems interest of AIS.  All of the members of the task group belong to both organizations. 
+By 2003, a number of email inquiries were being received about updates to MSIS 2000. The chairs of the Task Force decided it was time to organize meetings of the IS community.  The first two were held at AMCIS 2003 on August 5 in Tampa and ICIS 2003 on December 15 in Seattle  to determine whether an update to the curriculum was needed. In May, an email invitation was sent to IS department chairs, directors/coordinators of graduate IS programs and interested IS faculty members.  In July, a blanket email invitation was sent to the entire IS community using the ISWORLD list server. 
+12 Previous collaborations were IS ＊97 and IS2002 at the undergraduate level and MSIS 2000 at the graduate levels. 
+
+
+SIDEBAR II: PROCESS FOR DEVELOPING THE  MSIS 2000 CURRICULUM   
+Interactive E-Meetings. The Curriculum Committee first held two interactive meetings over the Internet, using AIS＊s Virtual Meeting Center (VMC), created by Munir Mandviwalla of Temple University. The first considered ※straw model§ curriculum and the second focused on what the content of a graduate ※IS core§ should be.  A meeting of the full Curriculum Committee at Bentley College on June 18-20, 1998, followed these virtual meetings.  
+The meeting at Bentley produced the outlines of the program presented in MSIS 2000 report.  To involve the full IS community, a series of presentations were made at the fifteen national and international meetings [Gorgone, J. T. et al. 2000]  
+At these meetings, the underlying concepts were developed and the proposed curriculum was discussed in detail. Participants in these meetings filled out forms listing what they liked best and least about the curriculum and made suggestions for changes. Many of these suggestions are included in the final recommendations. 
+The co-chairs of the Task Force met at Claremont Graduate University in April 1999 in preparation for a June meeting of the entire committee at Bentley College. These meetings completed development of the curriculum and created the initial drafts of the final report. The report was then discussed in a meeting with the IS community at the Americas Conference of Information Systems (AMCIS 1999) meeting in Milwaukee in August 1999. The final draft was completed in time for the ICIS 1999 meeting in Charlotte, North Carolina.   
+Approximately 60 people attended the AMCIS 2003 meeting representing MSIS degree programs. Among the questions discussed at meeting were:  Where is the MSIS 2000 program being adopted?  How well is it meeting student needs? Should the program be accredited? Which courses in the model curriculum are being taught or not taught? Which courses should be dropped and/or added?  What are the job prospects for students in the current Is market?  What about future job markets?  How are people using MSIS 2000 curriculum model?  What are your suggested new courses?  What are your ideas for the next iteration of MSIS model?  All the information was collected and recorded. On December 15, at ICIS 2003, the results of the AMCIS 2003 meeting were presented and feedback was again solicited. 
+After reviewing the comments and suggestions, the first draft of the Report and Recommendations for MSIS 2006 (without appendices) was prepared by the Task Force＊s chairs at the June 2004 meeting in Claremont, CA.  The draft copy was circulating for review and revision by task force members during June and July. Proposed changes to MSIS 2000 were presented for feedback comments at AMCIS in August 2004 in New York, ISECON in November 2004 in Newport, RI, and at a joint session of ICIER and ICIS in Washington in December 2004.  Table A9 presents a summary of the presentations made at national and international meetings of the IS community. 
+The full task force convened at Claremont Graduate University in March 2005 and produced an extensively revised draft of the complete MSIS 2006 report for circulation and comments. Once the review comments were added, the task force prepared an article for publication to inform the global IS community of the proposed changes to MSIS 2000. The article was published in the Communication of AIS in April 2005 [Gorgone, Gray, et al. 2005].  Invaluable feedback was received as the result of the article. 
+Table A9. Presentations on the MSIS 2006 Curriculum 
+
+Meetings/Conferences  Location  Date  
+Americas Conference on Information Systems  Tampa, FL  Aug. 2003  
+International Conference on Information Systems  Seattle, WA  Dec. 2003  
+Americas Conference on Information Systems  New York, NY  Aug. 2004  
+Information Systems Education Conference (ISECON) of Association of Information Technology Professionals (AITP)  Newport, RI   Nov. 2004  
+Joint session of International Academy for Information Management and International Conference on Information Systems (ICIER/ICIS)  Washington, DC  Dec. 2004  
+Americas Conference on Information Systems  Omaha, NE  Aug. 2005  
+Joint session of International Academy for Information Management and International Conference on Information Systems (ICIER/ICIS)  Las Vegas, NV  Dec. 2005  
+
+In July 2005, the co-chairs of the task force met in Irvine, CA to revise and edit the MSIS 2006 draft report. The resulting draft was again circulated to the task force for comments and edit changes.  By August 2005, the task force had created version 30 of the draft report.  The proposed draft report was presented at AMCIS in Omaha, in August 2005.  Based on the feedback from Omaha, a final draft (version 38) was prepared in October 2005 and circulated to IS organizations for their endorsement. The published version, which is shown here, was presented at a joint ICIER/ICIS session in December 2005. 
+Copyright . 2006 by the Association for Information Systems. Assignment of all rights for publication in any form, printed or electronic, is granted fully and equally to the sponsoring organizations including the Association for Computing Machinery and the Association for Information Systems. Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and full citation on the first page. Copyright for components of this work owned by others than the Association for Information Systems must be honored. Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, or to redistribute to lists requires prior specific permission and/or fee. Request permission to publish from: AIS Administrative Office, P.O. Box 2712 Atlanta, GA, 30301-2712 Attn: Reprints or via e-mail from ais@aisnet.org . 
+Reprint 
+
+
+

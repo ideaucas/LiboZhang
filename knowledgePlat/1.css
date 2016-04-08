@@ -1,0 +1,65 @@
+*{
+    font-size:10px;
+    margin:0;
+    padding:0;
+}
+.main{
+    width:1200px;
+    margin:0 auto;
+    border:solid orange 2px;
+}
+
+.what1{
+    width:590px;
+    border:solid orange 2px;
+    float:left;
+}
+
+.what2{
+    width:590px;
+    border:solid orange 2px;
+    float:right;
+}
+.what3{
+    width:590px;
+    border:solid orange 2px;
+    float:left;
+}
+
+.what4{
+    width:590px;
+    border:solid orange 2px;
+    float:right;
+}
+div{
+    overflow:auto;
+}
+table.filelist tr td{
+    width:90px;
+}
+table.filelist tr td:first-child{
+    width:300px;
+}
+
+.wordlist tr:nth-child(even){
+    background-color:#FB6;
+}
+.wordlist{
+    border:solid orange 1px;
+}
+.freq{
+    border-bottom:solid orange 1px;
+    margin:0;
+}
+td{
+    padding:2px;
+}
+hr{
+    color:orange;
+}
+.wait{
+    display:none;
+    color:blue;
+    font-weight:900;
+    font-size:12px;
+}
