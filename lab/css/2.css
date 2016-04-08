@@ -1,0 +1,29 @@
+.header,.footer{
+    height:200px;
+    width:1024px;
+    margin-left:50%;
+    left:-512px;
+    position:relative;
+}
+.middle{
+    width:1024px;
+    margin-left:50%;
+    left:-512px;
+    position:relative;
+}
+.row1,.row2{float:left;}
+.row3,.row4{float:right;}
+.row1{
+    width:200px;
+    margin-right:10px;
+}
+.row2{
+    width:300px;
+}
+.row3{
+    width:200px;
+    margin-left:10px;
+}
+.row4{
+    width:300px;
+}
